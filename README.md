@@ -2,6 +2,7 @@
 Project Team Members: Aamod Khatiwada, Nitisha Patange, Humberto Pinon
 
 You can find the poster presentation of this project here: [file/Aamod-Khatiwada_Nitisha-Patange_Humberto-Pinon_project_poster.pdf](file/Aamod-Khatiwada_Nitisha-Patange_Humberto-Pinon_project_poster.pdf).
+![Project Poster Presentation](file/Aamod-Khatiwada_Nitisha-Patange_Humberto-Pinon_project_poster.pdf)
 
 ## Dataset
 
