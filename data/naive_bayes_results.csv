@@ -1,0 +1,601 @@
+id,tweet,class,positive_probability,negative_probability,neutral_probability,predicted
+1,airway usairway almost hour late flight due mechan,negative,2.3523377791363097e-24,1.5164079060795816e-20,1.1294021403553717e-23,negative
+2,delta jetblu _justdippin_ drop new video upcom project thetakeov produc yponthebeat,neutral,1.1430062329073987e-26,2.078653551203687e-27,7.117713743949121e-26,neutral
+3,airway usairway nope announc head back gate,negative,5.10418917824604e-21,1.0619679966737868e-20,2.0804507300392386e-22,negative
+4,virgin america virginamerica look forward watch oscar flight home tomorrow might even get someth bubbl drink,positive,1.3018972062838232e-44,3.954213499568982e-46,2.169631991739218e-45,positive
+5,american americanair mad love nyc,positive,8.064456454540759e-15,4.556492924819769e-15,2.0733812905669637e-14,neutral
+6,delta jetblu disappoint allow bring aircraft approv carseat empti plane cool,negative,1.4916717180670618e-33,3.326907710665987e-32,4.4965181732258624e-32,neutral
+7,unit unit understood thank tri reach sooner,positive,5.719705688766481e-20,1.8418064095822217e-20,1.3524269532773416e-20,positive
+8,airway usairway recent move got new licens book flight month ago use old licens need chang,neutral,5.6408358317428955e-42,1.6766924815652407e-39,1.5701266161041894e-40,negative
+9,american americanair tpa ord anoth success journey thank hospit,positive,5.5477972093984865e-24,4.326802052715894e-25,3.86901307507508e-25,positive
+10,southwest southwestair give crew swa high five guy nice land bostonlogan nice done,positive,1.8272714930401369e-38,2.9645996163578276e-43,5.75150732599832e-42,positive
+11,american americanair pictur taken time right totallyconfus,neutral,7.923295977057605e-18,1.0547268364220374e-17,1.2330545885025057e-18,negative
+12,unit unit parryaftab done thnx,positive,1.0502334504195052e-10,5.5506674044496885e-11,1.1681948620839246e-10,neutral
+13,delta jetblu everi channel abcnetwork kgonzal suppos watch scandal free flyfi sweet,negative,6.819070711163711e-33,2.800427365880461e-35,1.0353824740980606e-33,positive
+14,airway usairway americanair prepar claim bag lost mani valuabl carri hand,negative,1.0961938930559881e-35,1.1677050519747934e-32,9.079342643166186e-36,negative
+15,southwest southwestair stuck sju sever hour one answer realli tough luv respons bad,negative,3.4727067936212716e-41,2.499434172553843e-40,1.1204235050646077e-41,negative
+16,airway usairway jack_kairi anoth sent wrong line kiosk work thank,negative,6.272384880815439e-23,3.600533928487522e-22,2.5577636708048123e-23,negative
+17,american americanair thank updat,positive,7.216284321019045e-10,2.1901808454054306e-10,1.5065843209246054e-10,positive
+18,virgin america virginamerica fyi info virginamerica com email address say contact password reset email exist email bounc,negative,2.7543336295253583e-54,2.0561184381229538e-53,9.383314489766343e-50,neutral
+19,virgin america virginamerica virgin america fli direct seattl nyc boston,neutral,3.1779923191491093e-29,8.255911686510543e-32,7.490767116952924e-29,neutral
+20,southwest southwestair frustrat idea great crew thank happycustom,positive,9.467498714486006e-19,1.0396174791503373e-20,2.2573333510090386e-20,positive
+21,virgin america virginamerica appli posit flylaxairport wonder guy receiv applic,neutral,5.327934921542912e-28,3.64021560606726e-30,4.6612468817601616e-29,positive
+22,american americanair realli need anyth saw mention often negat keep good work gratitud,positive,2.0604157853337512e-34,6.570508068387031e-34,2.1769482404918565e-33,neutral
+23,unit unit dca ewr flight,neutral,1.4681786533997014e-12,4.2791488800823586e-12,1.519368317564426e-12,negative
+24,airway usairway hope crappi servic improv becom americanairlin angryairtravel winterstorm,negative,5.406330184290051e-21,1.602899733402994e-21,1.8995419709053922e-22,positive
+25,unit unit airlin chang mileageplus program march,neutral,1.2891564635302688e-21,9.754514782456366e-21,7.412340032385429e-20,neutral
+26,airway usairway,negative,3.374213498982036e-05,7.117069919225457e-05,2.545721822639774e-05,negative
+27,american americanair tri book rwrd told couldnt bought tix usair choic bother aadv svc,negative,4.630241340723444e-34,2.758988165035311e-31,7.328347118407457e-32,negative
+28,airway usairway got thank,positive,3.96284088137317e-09,5.177703697557883e-10,1.8779552459704463e-10,positive
+29,southwest southwestair theellenshow imaginedragon destinationdragon,neutral,3.3802043651863164e-11,2.919483184457429e-13,9.099215556588484e-11,neutral
+30,american americanair thank champagn ord nrt celebr tokyomarathon finish,positive,1.2915507800440186e-17,5.620343695812931e-18,9.35066396281067e-18,positive
+31,southwest southwestair never met favorit band would sooo amaz win destin dragon,neutral,8.838858321359809e-36,1.8461090005634705e-38,5.067814866080664e-35,neutral
+32,virgin america virginamerica glad mention took first virgin flight year back transform experi,positive,2.4152739625384483e-33,5.099408820480529e-36,7.34723571669647e-36,positive
+33,american americanair cancel flight flight jfk delay hour lost bag worst airlin ever,negative,2.1338503240253575e-36,8.345892348450063e-31,1.4081538497257501e-36,negative
+34,unit unit great hear thankyou much great appreci repli feel much settl,positive,2.138594029029158e-33,6.006415009035835e-38,3.7272905059175984e-38,positive
+35,unit unit useless respons need function wheelchair custom care form fill,negative,2.460634283631806e-34,2.519813571419534e-33,1.5604532733427285e-34,negative
+36,unit unit pleas help left ipad air flight nyc pari yesterday cant get touch anyon local,neutral,1.7507710529221934e-49,9.222004365982533e-48,3.1615009155477165e-47,neutral
+37,airway usairway big thank ticket agent ute dull washington outstand guest servic get rebook,positive,5.47481485041723e-39,9.709212668256156e-40,2.6314542250544727e-40,positive
+38,airway usairway get full amount credit account airway credit,neutral,4.933082427954402e-27,1.8741161678185835e-25,1.5166788302206383e-26,negative
+39,southwest southwestair status flight stl aus,neutral,7.882021344272745e-18,2.5753222672999927e-18,3.2748666685004874e-17,neutral
+40,airway usairway flight keep get delay cancel flight inform worst custom servic ever,negative,1.8589221930692596e-35,9.73693767778722e-31,1.2610170310624559e-36,negative
+41,unit unit blow,neutral,3.083893834551275e-08,8.662510318069295e-08,5.169262264721366e-08,negative
+42,unit unit may hit new status year ive flown sever time year tri book yall everi time,positive,2.596491646516558e-53,6.559479973033207e-51,8.949834419358689e-51,neutral
+43,southwest southwestair new market song let know think,neutral,1.347592188957048e-23,9.538122282953543e-25,7.651977461047588e-24,positive
+44,delta jetblu deal cancel flightl flight sinc last night amp book flight wouldv least like see ella perform lol,negative,1.728409460117949e-52,7.284799967624521e-51,4.858494527156557e-51,negative
+45,delta jetblu deal,neutral,8.382169866820245e-08,6.305577168609664e-09,4.694973542540452e-08,positive
+46,american americanair book seat dalla live dalla real nice gate agent exit row avail told avail,negative,1.6564631080458914e-52,3.962939635546284e-49,1.2460481645229304e-49,negative
+47,southwest southwestair thank good militari folk cold stloui sure enjoy flight,positive,3.7736008400446956e-27,2.8045761471632467e-30,3.9158384827423645e-29,positive
+48,unit unit need get albuquerqu usa cebu philippin provid educ help kid help,neutral,2.2399176667551112e-32,4.99225949349171e-32,5.725217722606084e-31,neutral
+49,unit unit thank help understand reduc price seat sold check prioriti certif,positive,3.6605574188995923e-36,1.4248211547114983e-35,1.003590527028961e-34,neutral
+50,southwest southwestair hate guitar player chgd overs extra bag acoust guitar epic fail,negative,3.9283814761599145e-39,1.5351723809367936e-37,5.616279678427055e-37,neutral
+51,unit unit know flight detail need explor option unabl site let seem ongo,negative,1.1892069956735985e-36,5.379473229394463e-34,5.698960492771599e-34,neutral
+52,unit unit haha clean plane held overnight hangar sound love also lie screensand say weather,negative,1.0982414571280993e-40,2.3619388657753734e-40,6.596766429789723e-41,negative
+53,american americanair let flt know come gate crew yet arriv let flt dfw,negative,5.968421548200455e-39,3.6126670216928836e-37,4.4006410601518625e-39,negative
+54,unit unit check onlin still wait line hour check counter fuckinlam naia_miaa,negative,5.4805839038202366e-30,2.266756971736451e-25,3.9356904147798636e-28,negative
+55,unit unit control rather verizonwireless app new,neutral,2.004990966580741e-17,5.408220658868632e-17,8.838630303880225e-17,neutral
+56,airway usairway need help air clt phl conf dmqf need confirm bna bump day need home,negative,2.7329917116078414e-46,6.380624802318526e-44,8.939013988664988e-44,neutral
+57,delta jetblu read nytim jetblu fleet fleek,neutral,4.784756679673389e-20,1.9983031981819081e-22,1.4180234066385008e-18,neutral
+58,airway usairway link work via mobil,negative,1.1348998997075487e-18,2.1090143857591027e-18,1.1557525679227491e-17,neutral
+59,delta jetblu book jfk book ath thank,positive,4.930239864717013e-15,3.3340689710066046e-16,3.1960164132950397e-15,positive
+60,virgin america virginamerica good home texa moodlight,positive,1.6721188024005265e-20,3.6747162868389243e-23,5.424053275036094e-22,positive
+61,unit unit compens new cloth bet,negative,1.2531193541129632e-18,6.676815628232881e-18,4.143107954943855e-18,negative
+62,airway usairway three hour hold disconnect conf ebhset need home sunday interview,negative,6.42688346614e-33,8.248710935368317e-29,3.468837949129217e-32,negative
+63,virgin america virginamerica need receipt flight chang send one,neutral,9.420922544462668e-26,4.8070458590291956e-26,1.8487935568611812e-24,neutral
+64,airway usairway book flight yesterday didnt receiv email confirm dividend number regist pleas help,negative,2.336503720079631e-44,6.879686360190974e-41,1.4509211362651925e-41,negative
+65,delta jetblu mother overheard personnel ask attend passeng realli knew go attend said,negative,1.8453333689521098e-38,9.459008050420218e-38,6.741933183823432e-39,negative
+66,delta jetblu fleet fleek smh,neutral,6.750980001285433e-15,3.2362177728293456e-16,7.243248147811565e-14,neutral
+67,southwest southwestair thank twitter say someon unless follow southwestair follow twitter,negative,3.582160004733361e-30,1.2940059279436177e-32,1.688394078327133e-30,positive
+68,southwest southwestair got call rdu baggag except help get fli back home,negative,1.068475286187234e-32,3.0624703506309975e-32,1.3759676981437868e-33,negative
+69,airway usairway agent hold connect arriv late flight min departur time min late flight flt gate disappoint,negative,2.704448337277733e-51,3.297712859769606e-44,1.4168129791154768e-49,negative
+70,unit unit staff rather effici got solut freak littl limbo air,positive,1.0519859376871888e-27,3.734977857181506e-27,4.6120226981655034e-29,negative
+71,delta jetblu love fli great servic,positive,7.485167437098294e-14,5.099278665277156e-17,7.006651367608355e-16,positive
+72,unit unit thank,positive,1.190383020136792e-05,1.8191271667945518e-06,2.68801637765511e-06,positive
+73,southwest southwestair flight nwn taxi flytpa prior flight fly_nashvill,neutral,3.573779836279113e-24,3.634771971017193e-24,1.426015839343045e-23,neutral
+74,virgin america virginamerica got set thank,positive,1.6475809815124243e-15,2.1859914471387655e-18,4.91549403996871e-17,positive
+75,american americanair attach origin ticket flight number experi thought would terribl,negative,1.0171648222192791e-33,7.432231085107936e-32,2.196746147131802e-32,negative
+76,southwest southwestair weather system outag hope everyth goe smooth thank follow,positive,1.2724130850146628e-27,4.3975753987519695e-31,2.0353818775595526e-30,positive
+77,unit unit generic form ton field ask info alreadi expect premier platinum anoth servicefail,negative,2.0643636412182318e-42,9.760077957749475e-43,6.995359138237893e-43,positive
+78,southwest southwestair open onlin applic fall intern posit throughout compani appli via,neutral,2.5141641447423457e-37,2.333876930478233e-36,2.8669352670970616e-34,neutral
+79,delta jetblu know guy super busi flight,neutral,6.461932038039151e-18,2.4479214177728374e-19,1.644439437833404e-19,positive
+80,southwest southwestair yes pleas,positive,6.760408730372634e-10,5.138290404645075e-11,5.71950692128419e-10,positive
+81,delta jetblu custom servic agent bonni amaz phone deserv promot,positive,7.453526596829377e-25,1.3812182507637796e-27,3.2327539912268924e-28,positive
+82,delta jetblu follow pls,neutral,2.0814677798129922e-11,3.5353656532052583e-12,2.3872746826476875e-10,neutral
+83,delta jetblu realli,neutral,1.466879726693543e-07,2.837509725874349e-08,5.633968251048543e-08,positive
+84,airway usairway pleas post wait time hold two hour,negative,9.479376994600176e-27,1.2513893959225199e-23,6.022571274288675e-26,negative
+85,southwest southwestair ahah____ love,positive,5.819234284656913e-07,1.09349242673853e-08,1.8735099132739024e-07,positive
+86,american americanair happen put gear jeopardi step take protect custom item,negative,1.6315427070929182e-29,3.7506497430820835e-27,6.3002847083680115e-28,negative
+87,american americanair thank alway start vacat,positive,3.487187106118851e-16,6.43784823338572e-17,3.2059419301065155e-17,positive
+88,american americanair emxlyy wheel broken got swear,negative,2.4051887671437348e-15,3.6907592691040135e-14,2.9100088288659138e-15,negative
+89,unit unit click link got confus,neutral,2.8149289971197284e-14,7.502403880663875e-14,1.539993226852631e-13,neutral
+90,american americanair americanview new paint scheme look great usairway,positive,2.7164084781769796e-22,8.29713461813417e-24,5.1894580397867325e-23,positive
+91,unit unit everi unit flight saipan guam adventur never know capeair old plane oper,positive,1.0413427200138617e-26,4.749768593624945e-25,5.255867906693577e-26,negative
+92,delta jetblu sat plane hour dull insan ijustwanttobeinboston thanksdc,negative,2.517233101680023e-22,5.9378152174548145e-22,2.8051021079180736e-22,negative
+93,delta jetblu tri harder take winner attitud work,neutral,4.228951610822439e-21,6.3841894383473946e-21,6.023587684371444e-21,negative
+94,airway usairway still sit feel bad handl,negative,1.0306535840689119e-21,9.802088486796015e-20,1.4698836679625057e-22,negative
+95,american americanair left someth flight ord sfo earlier today believ plane back ord pleas help,neutral,2.4139868682822735e-43,4.743178777015409e-41,4.226553429647203e-42,negative
+96,unit unit good job cle tpa schedul inch snow,positive,5.831276511520804e-24,1.4392345230528117e-25,8.265321177949855e-25,positive
+97,unit sent thank unit goodenufmoth pleas confirm number reflight book problem need thank,neutral,3.034685294754556e-32,4.621135612588264e-32,2.005123584153927e-31,neutral
+98,delta jetblu would like actual email address follow thank,neutral,9.25167186721534e-25,2.209347165880344e-26,9.164810440434488e-25,positive
+99,southwest southwestair thank bringbacktheluvtordu miami directflight,positive,1.118364758538787e-09,2.4523658749442403e-11,1.4484465579875547e-10,positive
+100,airway usairway tip get hotel airlin get even though told make flight,negative,2.0773162232042017e-34,7.459153043563665e-32,6.842299604108431e-34,negative
+101,american americanair great thank keep good work,positive,9.852488402492635e-17,2.8876211539415333e-19,2.264083283973528e-19,positive
+102,american americanair peopl phone see differ poor process,negative,3.4386281926129233e-25,4.214417583814182e-23,1.2499888396396414e-24,negative
+103,southwest southwestair cancel flightl flight ewr flt also cancel flightl flight lga yet unit fli time wth,negative,4.679067589899013e-44,4.323009240524036e-40,2.592480075581779e-42,negative
+104,american americanair record locat oaaret got email rebook got notif flight cancel flightl,negative,6.696106853899358e-41,5.9658800954929095e-37,1.6025477168903984e-38,negative
+105,unit unit flyeia yes said took hour,negative,2.741198587122107e-16,4.166332952017317e-15,7.250438921151747e-17,negative
+106,delta jetblu excit saw fli ionlyflyblu,positive,3.150457333933202e-14,2.899111754826289e-16,3.49674048515041e-14,neutral
+107,delta jetblu hahah ____ love fli jet blue tho,positive,2.4323172636269438e-23,2.1451704648422047e-26,1.9968523480094767e-24,positive
+108,unit unit thank great servic newark seat fix seat daughter fab land fort myer,positive,1.6571214775489942e-36,3.200680925152533e-39,9.578285572960064e-39,positive
+109,airway usairway heard monterey airport close due thick fog updat,neutral,4.0898951748766335e-23,1.4710452764105345e-20,3.2563576644092438e-22,negative
+110,unit unit pleas get plane,negative,6.0272597350093e-12,2.6359557101307326e-11,2.490572379380118e-11,negative
+111,american americanair itunesmus put bad mood angri sinc spagnuolo coach ram,negative,5.0303860706981094e-27,8.116656087345831e-26,2.459890573634863e-26,negative
+112,delta jetblu thank,positive,4.044396960740768e-06,4.413904018026765e-08,4.88277248424207e-07,positive
+113,unit unit guy name oti ord know customerservic abl get bag upgrad sure,positive,8.133147899184912e-34,3.646737474154809e-33,2.1307850344089156e-33,negative
+114,unit unit relat flight book problem number myyb name clarita jaramillo mejia thank,neutral,4.356855454304667e-24,3.772442912847679e-23,3.979077465912398e-23,neutral
+115,airway usairway americanair nvm bad hour half thank,negative,3.1100575034043216e-22,1.3307276385948308e-21,1.4726518104633768e-23,negative
+116,airway usairway look today,neutral,2.02912913157785e-10,2.1687912313403828e-10,1.1737220287315288e-10,negative
+117,southwest southwestair crew great today travel lauderdal louisvill kid thank,positive,2.019703309547084e-27,3.838505604706199e-31,8.049989171829448e-30,positive
+118,virgin america virginamerica give silver status month,neutral,5.700405008183612e-22,4.2459957095827905e-23,8.261250372747282e-22,neutral
+119,airway usairway hold time book award travel gold status hour count day call usairwaysfail americanair,negative,1.3096201074675992e-46,1.5043628716651958e-40,1.5513721246400736e-44,negative
+120,southwest southwestair updat emerg land jacksonvill right parentsonboard,neutral,1.0464938130001801e-21,5.049570613015924e-22,1.0046373705040227e-21,positive
+121,american americanair thank,positive,1.5256668311498464e-06,2.4858552595351637e-07,2.6666542480365513e-07,positive
+122,american americanair need help reserv follow detail thank,neutral,1.922311733056576e-21,8.5837852541266e-22,1.1525079315594063e-20,neutral
+123,southwest southwestair imagin dragon ticket left tomorrow velourl utah would love avail,neutral,1.47785711133136e-34,1.6782575596078912e-35,7.626047810478182e-32,neutral
+124,virgin america virginamerica know would amaz awesom bos fll pleas want fli,positive,3.9802488396324506e-33,5.24482259492858e-38,1.8443584170703065e-34,positive
+125,unit unit see two flight two seat morn get,neutral,1.6210555206245828e-23,6.408714783708291e-22,2.480463874854481e-22,negative
+126,american americanair thank get back frequent weather advisori updat throughout day,neutral,5.059968894843386e-28,9.864696573999337e-28,3.956289617951358e-28,negative
+127,delta jetblu vegecomgirl,neutral,0.00011075989707769601,1.312085515834861e-05,9.97212380435592e-05,positive
+128,virgin america virginamerica americanair help flight get old battl cancer need treatment freyabevan_fund,neutral,2.951943338701515e-31,4.121688840719e-31,2.710227994471013e-29,neutral
+129,american americanair hour get back back sat plane hour flight cancel flightl one small drink,negative,5.589342507636877e-43,7.755484048191001e-39,9.712875739084815e-43,negative
+130,airway usairway thank apolog,neutral,4.662165742791965e-10,1.3423676252927842e-10,2.347444057463058e-11,positive
+131,airway usairway worri someth wrong flight consid fli earlier,neutral,3.1543267447977675e-27,3.8444684942606584e-26,3.9702774551099056e-27,negative
+132,airway usairway americanair honeymoon delay day gas cap screw flight frustrat,negative,4.043347714333446e-34,3.897996997221696e-31,1.567605253234162e-34,negative
+133,unit unit rather truth flight forc sit day tri get home,negative,1.8322598191422146e-28,5.682182335368165e-25,6.082430641023426e-27,negative
+134,unit unit get follow fli christma,neutral,1.2657245443519529e-11,8.196515173030478e-12,3.7537334904532875e-11,neutral
+135,southwest southwestair best custom servic,positive,4.809220854451064e-12,2.85283899482424e-13,7.343999642121457e-14,positive
+136,delta jetblu yesterday way ewr fll take wheelsup jetbluesofli,positive,7.739104701977179e-25,1.0670421562845591e-25,2.5996337307001685e-24,neutral
+137,american americanair snack left purpos team help morn desk phone,positive,4.9354166889560775e-27,3.230434623716598e-26,2.1234292905981075e-27,negative
+138,delta jetblu social media take flight fli likeagirl brand lesson learn smm brand,neutral,3.474687767068708e-33,1.0525345844072078e-34,2.472414378296449e-34,positive
+139,delta jetblu board back airplan first like boss sosmart jetblu frequentflyerappreci alsoyayforsnack,positive,2.2933277057054047e-21,2.624763648136572e-22,4.5006749788594535e-21,neutral
+140,american americanair cancel flight flight say caus weather condit flight cancel flight,negative,6.451083045360212e-32,7.424567226438075e-29,4.983217582114045e-30,negative
+141,southwest southwestair crew san sfo brilliant rita hilari know great flight,positive,8.146807324149428e-21,8.32693215178484e-23,6.968765187739767e-22,positive
+142,airway usairway meantim sleep park bench dadeland thank guy,negative,1.470668141463882e-16,4.650376720598822e-17,2.1854230375266536e-18,positive
+143,american americanair hand sanit bathroom flight,neutral,1.6128912909081515e-14,6.265177771627184e-14,1.0048624237177609e-14,negative
+144,delta jetblu thank take care drink sinc flight entertain work goodcustomerservic,positive,5.041115311244005e-27,2.0823977892687105e-28,6.501743410811577e-29,positive
+145,delta jetblu make sens bad,neutral,3.938071667416502e-14,1.067951865033684e-14,7.992549680343796e-15,positive
+146,southwest southwestair easi fix let busi select actual board board pre board,neutral,1.0255487458262223e-37,5.822545323957499e-37,1.4322747139742566e-37,negative
+147,delta jetblu month ago flight book cancel flight flight book problem separ flight differ occas,neutral,5.583984564649155e-42,8.48189876588719e-40,2.911566819227486e-40,negative
+148,american americanair aww cool nice know still head one fave,positive,4.307272746725302e-26,1.1448295743296594e-27,2.408932388493651e-27,positive
+149,delta jetblu think rli know goin suppos leav,negative,5.8541276459290954e-18,1.07166502639498e-17,9.482686061424843e-17,neutral
+150,american americanair check app said flight move back day explan answer number,negative,5.643169306336385e-36,7.472527831079378e-33,4.997828362665515e-35,negative
+151,delta jetblu thought thing sent,neutral,3.750544445158574e-14,1.1866131833707602e-15,2.28953246051515e-14,positive
+152,unit unit need book two one way order fli unaccompani minor,neutral,1.0496143116116922e-33,4.525030179273133e-31,2.1027107858293264e-31,negative
+153,virgin america virginamerica delay,negative,6.079037069089197e-11,1.0066008765849054e-11,1.999006175485987e-11,positive
+154,southwest southwestair tri get cust relat anoth use,neutral,2.0848698989484246e-23,7.299842920553779e-23,3.34774013920832e-23,negative
+155,delta jetblu good miami termin,neutral,4.500653334190289e-14,2.6429111811439654e-15,1.4986030650644617e-14,positive
+156,unit unit thank chees platter abund entertain option time flew,positive,1.6930328838748786e-18,4.887525301525506e-19,8.114561719664048e-20,positive
+157,unit unit thank look get back via glad hear bag final deliv thank,positive,1.706054411148959e-33,1.9942289047249573e-35,2.1765452606454794e-36,positive
+158,unit unit effici layout kiosk bag drop line would help definit space addit friend help staff,negative,2.632343099804173e-42,5.247108708242353e-41,3.1648045904689337e-43,negative
+159,american americanair thank repli tri figur get dfw,positive,7.933350009439837e-22,7.408419310147355e-22,2.258240284635659e-22,positive
+160,unit unit rep rebook wast time poor communic,negative,5.532236690417174e-25,7.724577290156306e-22,2.5714332553621767e-25,negative
+161,delta jetblu get sunday due weather monday busi crazi,negative,4.591776056267227e-28,5.728952328399403e-27,1.1435592349918258e-27,negative
+162,airway usairway still ignor question usairway consist provid poor custom servic,negative,6.206778786470422e-34,6.540615310029054e-31,2.015723576398107e-34,negative
+163,delta jetblu could begin blueti relationship lifeneedsfrost,positive,1.125163333547572e-15,6.742120360061138e-17,1.1988824520515692e-14,neutral
+164,southwest southwestair hour delay make nice offer reschedul next day,negative,1.836569589769498e-28,6.602501113352889e-28,8.946733527734298e-30,negative
+165,airway usairway make reserv,neutral,3.623444877817589e-11,2.260108756870504e-10,8.667485750632829e-11,negative
+166,southwest southwestair receiv email reso email associ swa account info sister fraud pleas,negative,8.79957450659821e-36,7.0445741269555e-35,2.883023568259222e-34,neutral
+167,unit unit custom servic terribl,negative,8.301280807192297e-13,1.627188041672876e-11,1.539993226852631e-13,negative
+168,unit unit want book multi citi fare mile flight option pay flight mile ump visa thank,neutral,2.7865355740419687e-40,4.767855186340961e-38,5.850416207900793e-39,negative
+169,unit unit would great get callback agent disconnect tri put hold wait connectfor min,negative,3.1521227185237004e-34,2.5047263956483634e-31,1.6650823223708253e-34,negative
+170,virgin america virginamerica add pillow instead lie flat seat first class arm race,neutral,5.75789956801448e-40,1.1726991178970673e-40,8.00558379518676e-39,neutral
+171,unit unit cancel flight flight anytim keep night,positive,3.886321515062789e-21,2.2040527438188457e-19,8.970812258938861e-20,negative
+172,virgin america virginamerica jezziegoldz would rough trip luckili virginamerica flight weather,positive,3.594157979990063e-28,2.152776971744173e-30,1.6645128271668514e-28,positive
+173,american americanair thank cancel flight flight put husband life danger drive weather safetyfirst,positive,1.1393281667584004e-30,8.512003840411328e-29,2.028409631082078e-29,negative
+174,airway usairway like lie bad weather stuck day home owe,negative,5.903410123076377e-27,5.042575742338691e-25,2.791601335624153e-27,negative
+175,american americanair delay bag friend lisa pafe got bag day costa rica issu updat system,negative,8.133852831951473e-44,4.494644608036489e-41,1.9910478574756085e-43,negative
+176,american americanair thank respons book tri number airway number time pick,neutral,3.152877669228926e-30,2.1182333285172378e-28,1.73815106039317e-29,negative
+177,american americanair time cancel flightl,neutral,1.37414093534609e-13,7.842863446846029e-12,3.2737599324741525e-13,negative
+178,american americanair usairway wonder flight pre dawn nice start day,positive,9.113797561821037e-25,4.715111743344969e-25,7.593155632897696e-25,positive
+179,unit unit perfect thank,positive,4.504334576243656e-09,1.457050193668043e-10,2.531088867848503e-10,positive
+180,unit unit thnx,positive,9.251681503653825e-08,8.662510318069295e-08,1.0338524529442731e-07,neutral
+181,american americanair zoom sauc potato stuff vile mean vile,negative,1.4956029680868484e-12,8.533172124956224e-12,7.726073440639001e-12,negative
+182,airway usairway hubbi layov dfw cxl flt pls help get home sooner room bwi phl today,neutral,2.163811705492463e-51,3.332543664219069e-51,4.204137121378846e-50,neutral
+183,unit unit flight plane sfo den basic time,positive,8.277609148036696e-22,1.585985043171233e-20,6.169970422437588e-22,negative
+184,airway usairway look like bag rescu thank,positive,6.748940522822678e-19,5.651206949425924e-19,1.1994250730574045e-19,positive
+185,unit unit ad one,neutral,2.625583626048763e-10,3.9548505256704023e-10,1.9469914368065406e-10,negative
+186,delta jetblu pleas start fli guyana soon,neutral,5.006875717536448e-16,1.3793130815913619e-17,1.3907939556756435e-15,neutral
+187,southwest southwestair thank get back nashvill big thank pilot baltimor fli snow land ice,positive,2.4599597635624716e-34,1.1702367814495613e-38,4.4034760104548646e-36,positive
+188,delta jetblu thank final gate,positive,1.4115174019354293e-11,1.0448938134022749e-13,1.3853752779262578e-13,positive
+189,airway usairway flight land hour ago still gotten gate hold uppp ____ imtir wannagohom,negative,5.1775560967855246e-33,2.5985847890848853e-30,9.806372711961074e-33,negative
+190,delta jetblu joke miss connect flight minut last flight day hold minut,negative,9.770425077478437e-35,9.99928256738263e-31,7.747829614849888e-34,negative
+191,unit unit luke_mcintosh nah,neutral,6.16778766910255e-08,8.662510318069295e-08,5.169262264721366e-08,negative
+192,airway usairway mobil board pass email,neutral,4.3234281893620895e-19,1.980716010625424e-17,4.162710547669815e-17,neutral
+193,southwest southwestair got messag part flight cancel flightl rebook onlin nobodi answer phone call help,negative,8.262405948182259e-46,6.71333106537256e-41,1.980266832008075e-43,negative
+194,american americanair aateam thank work rigor weather condit,positive,1.0125758115545107e-15,6.744412434975518e-17,4.675331981405335e-17,positive
+195,unit unit thank quick repli fill form idnumb hopetogetanswersoon,positive,1.3727293653039551e-18,3.3691580663089422e-21,3.169750671743769e-20,positive
+196,airway usairway plane crew profession courteous gate agent fluster,positive,2.263351317096614e-23,1.1526180133725579e-23,1.8880151416197133e-25,positive
+197,delta jetblu think summer new nantucket servic broadway world,neutral,2.686064647332387e-24,4.437925331819871e-26,1.3078799004506515e-24,positive
+198,southwest southwestair birthday destinationdragon could get tix,neutral,3.571160136863115e-20,8.820996792790743e-22,1.1427750089483257e-19,neutral
+199,delta jetblu thank free flyfi make alreadi great airlin even better jetblu boston westpalmbeach flybett,positive,5.343753949585299e-34,1.9919339187774222e-38,6.436680830810637e-38,positive
+200,airway usairway happen frequent flyer mile earn merger complet,neutral,2.9279928940849967e-31,5.852045065259353e-29,1.9248274669246472e-30,negative
+201,delta jetblu great idea cometoaustin,positive,7.433813499332116e-11,2.5252611808608985e-12,4.9513845269729815e-11,positive
+202,airway usairway ing hate,negative,6.383905967234955e-09,3.4202979187306965e-08,4.794203055818784e-09,negative
+203,delta jetblu l_burley best,positive,3.6671993167338575e-07,5.2546476405080536e-09,4.694973542540452e-08,positive
+204,southwest southwestair swadivers readi inspir,positive,2.897318027302557e-12,2.919483184457429e-13,5.570948299952133e-12,neutral
+205,unit unit wast time baggag claim thank dfw ground crew check bag without actual check space frustrat,negative,9.850081332239719e-51,1.5884956190924637e-47,1.5870862127582994e-52,negative
+206,southwest southwestair lunch time got call answer,neutral,1.0285072005892396e-20,1.3633840655142997e-19,1.7860219920071516e-20,negative
+207,unit unit flt cancel flightl get email happen courtesi phn call book diff airlin amp citi,negative,1.2133859304690726e-45,1.1664902192526034e-39,5.402634576880159e-44,negative
+208,unit unit robcnyc see inform board process get group amp reason,negative,2.824855648863594e-29,1.605477065828921e-27,1.8291751040181833e-28,negative
+209,southwest southwestair continu airlin choic unit frustrat travel day experienc delay gate chang,negative,7.760478601638867e-38,2.4749418253205997e-36,1.7422492135129225e-38,negative
+210,unit unit omg thank u___,positive,6.756501864365484e-09,2.914100387336086e-10,2.531088867848503e-10,positive
+211,unit unit thx respons final got min wait talk someon,positive,5.220336450379555e-29,4.2380605774987055e-27,1.000574415873194e-29,negative
+212,delta jetblu incident sheila jfk deserv rais awesom,positive,1.0111675024786617e-16,3.888127079891084e-20,3.1358088827463104e-19,positive
+213,southwest southwestair gate attend mccarran ref vega dalla went beyond long day frustrat welcom,positive,1.0834845196098364e-40,2.419717186869838e-41,1.9171691086661066e-42,positive
+214,american americanair photo,neutral,1.1857514231734556e-08,5.918702998893248e-09,1.538454373867241e-08,neutral
+215,unit unit concern address,negative,5.834630280108362e-12,2.081500276668633e-11,7.301217888024528e-11,neutral
+216,delta jetblu ceo battl appeas passeng wall street lake wyli pilot,neutral,2.102461564224921e-31,2.8858626261538303e-32,3.240084499143506e-26,neutral
+217,southwest southwestair gate agent gave wrong departur info caus miss flight stand nothappi,negative,1.4819282203208351e-41,9.670405364574577e-38,2.359207304289235e-40,negative
+218,unit unit final got help appreci,positive,1.7574998941434304e-14,2.1957375875006647e-15,5.634626818723644e-16,positive
+219,unit unit economi plus cabin also qualifi premium cabin,neutral,6.728395974831698e-26,2.3130554834777333e-25,6.198990883462389e-25,neutral
+220,american americanair flight get rest wait anoth hour receiv autom phone call neveragain,negative,3.7866269109544553e-39,2.4531691250409e-35,5.933912851441497e-39,negative
+221,southwest southwestair tri enter rapid reward contest link facebook browser kept pop secur warn,negative,2.531127400598594e-46,2.598441222183122e-47,2.3238413438377046e-44,neutral
+222,southwest southwestair flight everyon nice help hope get fli thank,positive,1.951123161614018e-23,1.3709441305609267e-26,4.970504314094306e-26,positive
+223,unit unit agent work slowli rebook peopl wast entir day stt,negative,1.2475315590455138e-26,4.092995575943085e-24,5.5614508082956666e-27,negative
+224,delta welllllll jetblu fleet fleek,neutral,7.136460959358831e-11,1.0101044723443595e-12,7.692329532975881e-10,neutral
+225,delta jetblu disabl seat row get board earlier,neutral,4.7549059288947785e-24,1.9990549778829264e-23,3.4698854501751966e-23,neutral
+226,unit unit jedediahbila travel tri cheer bila,neutral,1.6917111280525002e-17,2.372495153232083e-17,3.176382765456956e-17,neutral
+227,airway usairway thank glad head home great peopl call center,positive,2.64616215245871e-28,4.6482002587495875e-29,8.040504566991024e-31,positive
+228,delta jetblu mani choic south border know everi airlin equal lowest price best valu,positive,6.387384382549078e-38,1.146938412039557e-39,8.970359278196445e-38,neutral
+229,unit unit shame flex ticket transfer rule even call neurosurgeri icu enough,negative,5.433226474648643e-21,1.0781305812188614e-18,3.511108436393097e-20,negative
+230,airway usairway guess weather rough tri sort miss air mile day suggest,negative,4.372404984460995e-38,8.84457891415544e-37,3.037246646911079e-38,negative
+231,delta jetblu havana cuba share love photographi leav pictur behind well deliv much need item flyingitforward,neutral,3.5060817576164144e-48,3.184777484120564e-51,1.0915530584066461e-48,positive
+232,delta jetblu cours,neutral,4.1910849334101226e-08,2.1018590562032215e-09,9.389947085080904e-09,positive
+233,unit unit airlin flight need make hold plane,neutral,2.085382227449399e-20,4.657924046725447e-18,2.0710534051315505e-19,negative
+234,delta jetblu shocker flight delay hour thank remind switch delta,negative,3.230155149067756e-23,1.0853472495190833e-23,4.874012825140161e-24,positive
+235,delta jetblu readi disneyworld rundisney princesshalf,positive,5.947050799465692e-12,1.683507453907266e-13,2.652527425164097e-12,positive
+236,american americanair love american airlin,positive,6.8991424968596196e-12,1.5756352534026763e-12,2.232340522843764e-12,positive
+237,unit unit roundtrip ticket dramat cheaper virgin pretti pricey via unit match,neutral,7.629454105129495e-38,3.775460862822528e-37,2.4415870592456812e-36,neutral
+238,southwest southwestair thank get look like bwi sjd servic stop aug case cant find one date flight,neutral,2.2417269158530527e-46,1.2416176188079017e-45,1.4782301963655643e-45,neutral
+239,delta jetblu thank respons next flight flight,positive,2.6938856738818903e-15,3.0773869252001386e-17,2.99966635231452e-16,positive
+240,american americanair redeem aadavantag mile lan flight,neutral,2.034359777893169e-18,7.527246021178034e-18,3.4063133007381716e-17,neutral
+241,southwest southwestair sign,positive,3.062754886661533e-08,1.82248737789755e-09,4.930289245457638e-08,neutral
+242,delta jetblu want help find seat quot term condit jetbluefail,negative,9.515140336377929e-28,1.321014716593555e-27,2.1790458389844242e-27,neutral
+243,delta jetblu idea novemb decemb travel open,neutral,6.041359444032056e-23,4.498344861708192e-23,6.417778349010457e-21,neutral
+244,unit unit yes still know told might flight one confirm,negative,6.040416986183125e-28,4.1991332062683485e-26,6.36690124331129e-26,neutral
+245,southwest southwestair got tsa pre check amp put acct board pass flight updat,negative,3.255682305566389e-39,1.1250655544077956e-38,4.463647732336857e-37,neutral
+246,delta jetblu phone agent see flight see onlin chang ticket even pay frustrat jetblu,negative,3.762994339760665e-39,1.2775970620077482e-37,9.864959821484925e-38,negative
+247,unit unit nope told time home sleep airport even though assur would get room,negative,2.551249114029803e-42,2.518489030903448e-40,1.3160525355829287e-41,negative
+248,unit unit line denver rebook due weather issu better,negative,3.59407901534541e-27,2.4210700294009108e-24,1.0677985551927686e-26,negative
+249,delta jetblu thank use phone instead comput work thx,positive,1.3658389256599492e-25,4.229165081798603e-26,9.005528975560627e-26,positive
+250,american americanair hang what new,neutral,2.5466704593286604e-15,4.55649292481977e-15,2.1825066216494354e-15,negative
+251,american americanair hahahaha crazi well anoth night airport,negative,5.1049162707215734e-21,3.157020212035204e-20,6.5019827642316686e-21,negative
+252,virgin america virginamerica minus minut elev silver upgrad window open freeneversuck,positive,4.251011905486366e-30,3.993836550656651e-30,2.929926611392101e-29,neutral
+253,unit unit spend afternoon mia fault loung inconveni,negative,1.6820989937079242e-26,2.741399091529166e-26,1.1479612747152572e-26,negative
+254,southwest southwestair fli chicago lax phx spot lax phx airport fli back chicago,neutral,1.625146075560982e-33,7.793343515590312e-35,1.3306129675436416e-34,positive
+255,unit unit offer voucher switch flight voucher offer doesnt exist amp gate agent switch delay flight,negative,9.435064365202513e-49,2.592907608515162e-44,1.7744642411446914e-46,negative
+256,unit unit flt departur time chang five time last minut figur solut announc,negative,5.181208678850894e-41,6.701894170780085e-38,1.3644281442963051e-40,negative
+257,delta jetblu thank,positive,4.044396960740768e-06,4.413904018026765e-08,4.88277248424207e-07,positive
+258,delta jetblu ________ yall realli better american airlin though,positive,7.91408582005545e-26,1.5233805055062053e-26,6.494411127953578e-27,positive
+259,virgin america virginamerica anoth rep kick butt naelah repres team beauti thank,positive,1.9558434872314346e-29,4.6784028476855054e-33,3.043124141262126e-32,positive
+260,unit unit tourist wonder super tide tide centuri french coast,neutral,1.545451214104949e-14,6.946670259873959e-15,4.124981857640977e-15,positive
+261,airway usairway flight dfw cancel flightl today,neutral,1.2565384945773485e-18,4.468300027096998e-17,2.6799653976126387e-18,negative
+262,airway usairway look like lost anoth custom strand cgqueen clt vow never fli smoothtransit,negative,6.021896014107472e-32,1.2085868176843096e-29,4.2649017415925375e-33,negative
+263,airway usairway pdquigley progress good luck patrick,neutral,3.8650078696720947e-11,2.5568907148433985e-11,6.771473242681898e-12,positive
+264,southwest southwestair fortunemagazin alway tell everyon fli southwest congratul,positive,1.1504816079083476e-25,5.422949806354068e-28,1.7583585756318616e-26,positive
+265,american americanair final got someon phone worri,negative,3.1962701203959846e-20,9.056701733275992e-20,1.1559080469745188e-20,negative
+266,unit unit henc ask custom servic phone number speak real person get sort,negative,2.897151014180895e-35,1.2140777320039304e-32,3.8244859591954903e-35,negative
+267,american americanair thank,positive,1.5256668311498464e-06,2.4858552595351637e-07,2.6666542480365513e-07,positive
+268,delta jetblu best track deal special flight offer like intern option,neutral,1.5648964165761295e-32,1.442334648355299e-33,1.5697869068548883e-32,neutral
+269,american americanair rebook due weather need chang reserv fli instead,neutral,4.0838728625180785e-31,3.55240592898769e-27,5.286588185140046e-28,negative
+270,airway usairway thank,positive,1.2320938516763466e-06,2.3942085431114875e-07,1.2464927945128838e-07,positive
+271,american americanair inch,neutral,4.1781927647888665e-05,7.389500694118219e-05,5.4461284834900335e-05,negative
+272,southwest southwestair hey southwest see imaginedragon atlanta friend never love taiwan,neutral,7.362068970630247e-28,4.878942650192352e-31,1.8642010427289037e-28,positive
+273,airway usairway want clog alreadi crowd line special meal request someon sort vegetarianproblem,neutral,1.989730091597424e-37,5.748827751030252e-35,1.8278150321110876e-35,negative
+274,southwest southwestair awesom first time fli destinationdragon,neutral,5.0693304904336704e-18,9.86961528907658e-21,8.751507760835042e-19,positive
+275,virgin america virginamerica realli experi hope forc check small carri noth empti cabin space board,negative,1.965334103845599e-48,3.465536224495286e-47,1.8536235096971456e-49,negative
+276,delta jetblu love guys___,positive,5.972296030109424e-07,6.305577168609664e-09,1.7840899461653717e-07,positive
+277,southwest southwestair sent,neutral,1.0209182955538443e-07,2.004736115687305e-08,1.0846636340006804e-07,neutral
+278,unit unit wow deal plus seat avail easi chang make custom happi,positive,6.083111904794047e-35,1.7157123920992308e-34,7.485385065603109e-36,negative
+279,unit unit admit rather good year still got hook peac,positive,1.601358109397475e-30,1.6952242309994828e-30,2.2017848474292945e-30,neutral
+280,southwest southwestair show love companion flight pleas thank,positive,8.690717805863551e-20,2.7478876100889976e-22,7.293148302108337e-20,positive
+281,southwest hour delay short southwestair brendanpshannon brendan sorri keep wait air short,negative,9.328607440099037e-30,1.579174674216849e-29,3.7278056365559576e-31,negative
+282,delta jetblu expand nantucket aviat,neutral,1.9823502664885644e-12,8.41753726953633e-14,1.7683516167760647e-12,positive
+283,delta jetblu thank,positive,4.044396960740768e-06,4.413904018026765e-08,4.88277248424207e-07,positive
+284,delta jetblu love guy sooooooo much ridicul appreci servic,positive,1.0074354066284846e-20,1.6154048207824327e-23,5.694727066545544e-24,positive
+285,southwest southwestair free watch daytona boss,neutral,3.863090703070076e-11,2.9194831844574288e-12,2.5997758733109955e-11,positive
+286,delta jetblu far less pain come avi,positive,4.500653334190288e-15,1.0517707761695374e-15,9.740919922919001e-15,neutral
+287,southwest southwestair sent way thank help,positive,2.3852621390414856e-14,5.520666837965648e-16,5.283451558514122e-15,positive
+288,delta jetblu pleas come indianapoli,positive,1.0501524446444005e-14,1.928246422977485e-15,1.4286682553614535e-13,neutral
+289,delta jetblu great see redsox plane remind _ni side side jfk catsanddogslivingtogeth,positive,7.34922948566122e-27,1.2658725414907386e-28,2.14888603498464e-27,positive
+290,unit unit worst,negative,3.083893834551275e-08,1.1261263413490081e-06,5.169262264721366e-08,negative
+291,unit unit termin gate flt take termin gate swiss air,neutral,3.361492880718938e-25,1.81333070896563e-24,9.408526304257627e-27,negative
+292,american americanair award air mile yes go take vacat thanksamericanairlin,positive,7.6478564394980515e-28,2.646458458718718e-26,9.187915199703345e-27,negative
+293,delta jetblu analystdoc unfortun avail option current system sorri guy certain fail fix plz,negative,2.5639328215385594e-43,1.1552465818630837e-42,9.709220271375277e-43,negative
+294,american americanair suppos cancel flight onlin want lose fund ticket help,negative,6.29370733748179e-34,1.2558652674426376e-29,7.2143140513760295e-31,negative
+295,american americanair delay connect pns,neutral,3.8885677170258055e-11,4.764354436433892e-10,5.2150995724313254e-11,negative
+296,american americanair status itinerari say request red mean,neutral,1.916337550742137e-27,6.743068134102691e-25,9.183591474903488e-25,neutral
+297,southwest southwestair happi final put southwestairlin board pass passbook make life much easier,positive,2.0836240761727624e-39,6.155661703409657e-42,5.696731065750717e-41,positive
+298,american americanair mani miss connect alreadi delay flight final board soon,negative,1.3848236706869017e-31,5.726534051075664e-30,1.3942983809894414e-31,negative
+299,delta jetblu home airport count badg system account say flight taken year,neutral,5.387201797105905e-37,4.389890003975964e-36,5.6426770304228896e-36,neutral
+300,airway usairway tyvm usair happi night,positive,4.798810735923399e-15,1.3165522303101199e-14,1.0201842926827717e-15,negative
+301,airway usairway even singl unreason human planet earth excus treatment,negative,2.556184484297896e-24,3.941556721482771e-22,1.5075729927820569e-24,negative
+302,unit unit taxi bhx_offici depart newark liberti airport,neutral,7.518716124677779e-18,2.2256052094109598e-17,2.900175568460699e-17,neutral
+303,southwest southwestair follow back info,neutral,3.069715439011317e-13,3.388330904508461e-14,4.2227997942198364e-13,neutral
+304,southwest southwestair sev ppl offic receiv apolog mile delay apolog select ppl got noth,negative,5.966710992344418e-42,1.393557213753803e-41,8.963388040516863e-43,negative
+305,american americanair still patient wait respons complaint email fri normal respons time,negative,3.8415411467547886e-33,1.4019024228599867e-31,8.100498945472426e-34,negative
+306,unit unit yes plenti seat avail vicki thoma refus give one million mile flyer,negative,3.8795356535676316e-38,8.692942786636105e-36,1.4409366251285989e-36,negative
+307,southwest southwestair realiz wrong departur date thank make chang easi,positive,1.4426452211050597e-30,1.6615911710736305e-30,3.618456671216984e-30,neutral
+308,unit unit flight attend superben super help find bag left flight today excel custom servic name fit,positive,3.0549108214055547e-43,1.44120704528582e-42,2.1341855634991925e-45,negative
+309,unit unit dad book orbitz due weather make airport help,neutral,3.9208134712859013e-25,1.6011748245637105e-23,1.659664040071046e-24,negative
+310,airway usairway tri use twitter also gave help inform thank anyway,negative,2.0276145525414393e-32,9.721336695126939e-32,7.128478625233241e-33,negative
+311,unit unit still frustrat gave seat amp promis travel certif withheld explan,negative,6.1242453281502735e-34,1.7533214431830805e-31,3.961490338269134e-33,negative
+312,delta jetblu fleet fleek,neutral,7.136460959358831e-11,1.0101044723443595e-12,7.692329532975881e-10,neutral
+313,unit unit sorri end air flight thank though get back,positive,3.674037871111141e-25,1.8695879535100376e-26,9.32639364956925e-27,positive
+314,airway usairway tri get book reserv system let day ridicul,negative,4.491620316815923e-30,3.6742595166904616e-26,6.43240365359282e-29,negative
+315,delta jetblu chanc actual fli charleston today cold raini weather south place,positive,5.310244072869139e-35,7.679292327834988e-35,1.2775566799040474e-33,neutral
+316,unit unit never frustrat convers unit speak spanish courier compani bag,negative,3.5113345752046354e-26,1.3677705057550597e-23,3.3232506054468804e-26,negative
+317,airway usairway take offlin would love info locat lost bag help appreci,negative,1.7327232880994234e-31,8.553590762846442e-31,1.6235567022726735e-32,negative
+318,american americanair first ride new new interior seat video nice improv newplanesmel,positive,4.4450316870945063e-29,8.651879263176931e-31,4.963113392360605e-31,positive
+319,airway usairway fyi custom servic rep carol absolut delight pleasant rebook lightn speed thank,positive,6.845190318793094e-33,8.747736525759026e-33,4.892093174179677e-35,negative
+320,delta jetblu would fli somewher hotter puerto rico come lol,neutral,3.405987734044371e-27,1.613197208019991e-29,2.4765204682791733e-27,positive
+321,delta jetblu need anybodi els,positive,1.784115239839708e-11,1.809770512950311e-11,4.686131784456572e-11,neutral
+322,airway usairway chang correct last name via reserv alreadi said chang ticket name,neutral,2.850409369341242e-40,2.996606448063126e-38,9.664278596272993e-38,neutral
+323,virgin america virginamerica issu persist,negative,5.143800596921629e-11,2.854539799270627e-12,1.1660869357001589e-11,positive
+324,unit unit thank,positive,1.190383020136792e-05,1.8191271667945518e-06,2.68801637765511e-06,positive
+325,delta jetblu good perspect safeti concern express point arriv airport communicationiskey,negative,9.226802750427082e-29,7.769630147337234e-29,1.884987749986526e-27,neutral
+326,american americanair thank,positive,1.5256668311498464e-06,2.4858552595351637e-07,2.6666542480365513e-07,positive
+327,unit unit help girlfriend ami lloyd go miss flt zurich fault need golf cart meet ord,negative,2.3868234954540776e-46,2.4847014257070714e-43,7.848546143475765e-44,negative
+328,southwest southwestair best airlin one better onelov southwest bestairlin,positive,6.0618678181664506e-21,6.315683650638586e-23,1.0429206154938179e-22,positive
+329,delta jetblu selfi,positive,2.0955424667050613e-08,1.0509295281016108e-09,3.7559788340323616e-08,neutral
+330,delta jetblu two delay littl proactiv communic goe long way howhardcanthatreallyb,negative,1.0803965158e-31,3.764580902824713e-30,8.330391563028968e-32,negative
+331,american americanair love flight back mia lhr great crew thank,positive,8.602741464859324e-26,9.576548859428967e-29,1.3522556048659138e-28,positive
+332,american americanair locat code thank,neutral,1.365298329584532e-14,1.2758180189495356e-14,1.418629304072133e-14,neutral
+333,american americanair time awesom flight great job american,positive,7.362199256346191e-19,1.7929186005941484e-21,3.505041591996181e-21,positive
+334,southwest southwestair constant provid wonder view servic southwestluv,positive,6.499210582119631e-17,5.141279726355258e-18,6.91525390030269e-18,positive
+335,delta jetblu sylvi good morn sylvi great flight yourock thank jetblu mxo henrikwagn jetbluerock,positive,1.7704489888045728e-17,2.5881107500681983e-21,2.2928656066212686e-19,positive
+336,american americanair call hour reschedul flight dfw due weather even let stay hold,negative,5.256675579510094e-39,2.989576368125644e-34,3.580692554926985e-39,negative
+337,southwest southwestair left comput plane two week late flightr found sent greatservic happi custom,positive,3.4862562626729277e-44,6.901308005595662e-42,4.23355502930627e-44,negative
+338,unit unit need land ewr baggag claim file sent employe droppeditoffyet,negative,2.7095171887783148e-30,6.687468001408461e-28,9.494382884994663e-31,negative
+339,airway usairway xna tsa precheck would nice system knew,negative,7.25433114454043e-26,2.46248637785868e-25,2.810729308576717e-26,negative
+340,unit unit truli drunk uncl board believ gate agent overhead full reserv aisl,negative,4.212443876505479e-34,1.3549350859825543e-32,2.57622002674507e-34,negative
+341,delta jetblu thank quick repli want make sure account,positive,3.098962268304087e-24,1.1509056016873801e-26,9.025949676185483e-26,positive
+342,airway usairway seem unlik without crew board,negative,6.543832279802615e-22,3.885248768318732e-21,2.261359489173085e-22,negative
+343,american americanair driver servic get employe work bad weather like hospit etc badmgmt americanairlin,negative,1.7441204996205905e-31,2.197443510338513e-31,1.2355436318808342e-33,negative
+344,delta jetblu guy rock,positive,6.987784689372189e-10,1.178455217735086e-12,1.2378461317432454e-11,positive
+345,airway usairway wait airplan total hour take flight today usual happen,negative,3.345497785615264e-33,1.3281862713220811e-30,1.3892361341944854e-32,negative
+346,american americanair possibl chang number passeng flight book problem let chang,negative,6.591228047980927e-33,2.3584946643409176e-29,6.44583504988305e-29,neutral
+347,unit unit jsumiyasu thank unit ground staff put last seat last flight home late flight still home,positive,2.2279370767115428e-41,8.464781793909204e-40,9.541694026763408e-42,negative
+348,unit unit priceless unit strand daughter hare unit zero keep safe alon plastic chair unit air,negative,2.426132053358618e-44,4.998114076839477e-44,1.4078308813598112e-44,negative
+349,southwest southwestair prop las employe work ref gate oppos fli las futur ___,positive,1.297233273762708e-33,8.229250056866248e-35,1.151776105927423e-34,positive
+350,airway usairway lol,positive,1.9151717901704868e-08,1.1400993062435656e-08,1.677971069536574e-08,positive
+351,southwest appreci repli southwestair luxclark sorri keep wait laura agent short,positive,1.213694883068147e-25,3.2067731413045823e-27,4.618751183692831e-28,positive
+352,american americanair flight number,neutral,1.1366582557460048e-10,2.6073581492921797e-09,2.3477605667741768e-09,negative
+353,airway usairway tri nashvill london idea would good time fli nashvill right americanair,neutral,1.665079321298475e-37,3.9912466927573535e-37,8.78656579407242e-37,neutral
+354,airway usairway alreadi spent min today handl minor child shame treat year old girl like,negative,9.857125069085943e-46,8.618792228023698e-44,3.070196081018131e-46,negative
+355,airway usairway appreci respons,positive,1.4493779511270356e-10,5.113781429686797e-11,7.222904792194024e-12,positive
+356,american americanair let serious unhappycustom,negative,7.781493070170909e-16,1.640337452935117e-14,1.1821910867267777e-15,negative
+357,american americanair guy get rid function put reserv hold hour see,negative,2.155878407285096e-33,2.896880979763661e-31,1.5947857298898842e-32,negative
+358,american americanair thank,positive,1.5256668311498464e-06,2.4858552595351637e-07,2.6666542480365513e-07,positive
+359,delta jetblu offer hot tea coffe gate guy make wonder ever flown airlin,positive,8.837510159726052e-39,2.387229478551811e-40,3.1534219684808585e-42,positive
+360,unit unit curios flight arrang pilot notifi lot pilot arriv yet announc,neutral,4.242315774187429e-34,6.941883542014459e-32,7.060325222106406e-34,negative
+361,airway usairway luggag delay look compens sinc know charg forgot,negative,7.129556058437975e-32,7.276863836450944e-29,3.262419435465503e-31,negative
+362,southwest southwestair thank respons flight time pass rebook,negative,6.715884687070829e-20,6.738153497224295e-21,1.954144999607975e-20,positive
+363,southwest southwestair jason gate san made afternoon southwestairlin stellarservic thank,positive,2.9077053018921693e-26,7.292040437285885e-29,2.859226923238419e-28,positive
+364,unit unit airlin joke friend trap houston sinc sat flight sight unitedworstev trappedhouston,negative,1.7145779545067705e-26,6.960174785982272e-25,1.161952998575817e-25,negative
+365,unit unit hubbi made skin teeth,positive,6.418093308119198e-11,3.8160838405591605e-11,7.301217888024528e-11,neutral
+366,american americanair offer cot sleep cancel flightl flight fuck cot hotel like suppos provid,negative,7.853043224149755e-38,7.707461008276166e-33,8.173563458914201e-36,negative
+367,delta jetblu head buffalo trade cold boston colder buffalo mayb caribbean next time,positive,1.645971460342105e-38,2.443352506851186e-41,4.028792938979455e-39,positive
+368,unit unit alway make cross countri flight rad hemispheresmag babi flier charlott thtimemonthsold,positive,4.004064290083511e-30,9.31019117424371e-30,3.109597676830911e-29,neutral
+369,southwest southwestair sorri sat plane hour wait engin fix got luggag lost,negative,2.5472233459644805e-37,5.081148238140031e-35,2.2328795540932e-38,negative
+370,american americanair confus web site complic order process typic fli southwestair,negative,4.210433141174318e-24,5.584259388093933e-24,2.8316073714285755e-23,neutral
+371,unit unit connect ord exact plane check carri appar taken amp left chicago pretti ridicul,negative,1.0728434398488704e-48,5.833810108845191e-45,3.3616392922809873e-47,negative
+372,southwest southwestair got cover thank,positive,2.3980324655705076e-12,2.6517372296153183e-14,1.4548113576773933e-13,positive
+373,airway usairway yes confirm number,neutral,8.569304885577496e-15,7.021611894987307e-14,7.855419053657344e-14,neutral
+374,delta jetblu abc inflight channel sharktank,neutral,2.973525399732846e-12,2.525261180860899e-13,5.305054850328194e-12,neutral
+375,american americanair miss flight american airlin gave ticket well passeng ticket away fault,negative,2.686259345740476e-37,7.716368385802115e-36,1.202793891619038e-35,neutral
+376,american americanair cvgairport get togeth perfect combin delay cancel flightlat,neutral,3.260461610759425e-31,1.3980152625965792e-30,4.200551699263532e-31,negative
+377,unit unit thx conf mqxc amp mpwnc help appreci,positive,1.5517294811596524e-18,2.89498026438398e-19,1.5917024911648712e-19,positive
+378,unit unit fli sfo lax sal clo connect time lax enough time collect bag recheck,neutral,4.373530398946309e-34,6.179197067002591e-33,4.074444798909084e-34,negative
+379,delta jetblu sale pleas soon need tan,neutral,1.7881698991201602e-17,1.532570090657069e-18,2.9250825258257585e-16,neutral
+380,american americanair cheerupd say call center understaf,negative,1.33839459071919e-19,4.379488594139947e-17,1.0275454904187547e-18,negative
+381,american americanair kudo captain crew handl fustrat peopl deal prevent issu shortcom maint,positive,4.58393892731621e-31,5.707837013901449e-32,4.947765222690219e-33,positive
+382,unit unit yaayi yay prom,neutral,1.1669260560216724e-11,3.4691671277810553e-12,4.867478592016352e-12,positive
+383,delta jetblu fleet fleek lol,neutral,4.05058800077126e-14,1.6181088864146728e-16,5.070273703468095e-13,neutral
+384,airway usairway usairway use aadvantag number connect usairway book ticket friend benefit account,neutral,1.339185664146945e-35,1.0745992880425076e-32,4.445924071545755e-33,negative
+385,delta jetblu rough idea januari flight made avail,neutral,1.5925886845176423e-24,4.19195132826077e-25,1.4516591082568892e-23,neutral
+386,american americanair found midnight last night would think agent lax could relay info bag flt,negative,5.608344982168652e-43,8.878429946745163e-41,8.80338699170563e-43,negative
+387,southwest southwestair great flight great view,positive,3.6946975051278494e-14,2.7813480486839916e-17,4.65758815075625e-16,positive
+388,unit unit thank rude custom servic hour delay realli help time wise afternoon meet hello delta,negative,1.920686974981079e-41,8.160209083337131e-39,1.2993620506585042e-42,negative
+389,unit unit intern flight get new eta air,negative,1.3295310446267435e-21,3.232280866356106e-21,1.055389677522219e-20,neutral
+390,virgin america virginamerica cool pictur anoth virginamerica plane wing site,positive,2.0267808157838703e-30,9.24941378629105e-32,1.4454839670995101e-31,positive
+391,unit unit sure,negative,3.3922832180064026e-07,6.49688273855197e-07,6.720040944137775e-07,neutral
+392,american americanair thank great night team,positive,5.8119785101980835e-15,1.2415850164386746e-16,5.699452320189361e-17,positive
+393,american americanair help said chnge retrn flght sinc miss connect sat amp pickng phone hve hrs left,negative,3.541339337775222e-41,1.7975602723817666e-37,3.99404200209607e-40,negative
+394,american lol great answer americanair jayfranceschi agent check passeng quick possibl appreci patienc,neutral,7.955595826602049e-37,2.833593909900983e-37,4.033161886867759e-37,positive
+395,airway usairway huge prop parizad checkin sacramento help friday get home airlin delay,positive,7.699549212068302e-29,2.3727076793398707e-28,2.7825889019336794e-29,negative
+396,american americanair aex still go,neutral,3.5894471234084366e-11,3.384824942899302e-10,7.532921604623027e-11,negative
+397,unit unit stand still pilot paperwork fix min problem fix min ago flight delay,negative,8.170265590236969e-43,1.6650607004044324e-38,2.1517490113327664e-43,negative
+398,unit unit refund vacat get free room night make make sleep dia,positive,3.7825472622284416e-36,9.75342282899223e-35,6.05484480862118e-36,negative
+399,american americanair thank deliveri status,positive,2.7305966591690637e-14,6.379090094747678e-14,2.1279439561081997e-14,negative
+400,american americanair much status million mile revenu first class ticket sit coach thank rude staff,negative,1.216320659927106e-47,1.2146606495289608e-46,1.346473231400443e-46,neutral
+401,southwest southwestair refer,neutral,0.00010792127302299688,2.2753754913050912e-05,0.00010471934357352023,positive
+402,american americanair send gate agent talk joke airlin thank ruin vacat neverflyaaagain,negative,2.6558587187618525e-33,8.99361636688883e-31,3.3667698742119758e-34,negative
+403,american americanair could guy follow yall pleas,neutral,4.1987936326684933e-19,1.575586939154606e-20,1.341033945122782e-19,positive
+404,american americanair worri even though talk seat assign,positive,4.311759489169807e-25,7.342451968245153e-24,6.997022076116944e-25,negative
+405,unit unit mechan delay occur houston earlier today flight ord,negative,4.40200421548917e-25,8.455465083410332e-24,2.226057323587355e-24,negative
+406,virgin america virginamerica thank,positive,1.805006391283408e-09,6.310035345756124e-12,8.66236009377261e-11,positive
+407,delta jetblu love free wifi legroom seattlebound,positive,1.0111675024786618e-17,2.33287624793465e-19,4.170625814052592e-18,positive
+408,delta jetblu session present one belov travel paulgordonbrown see love much,positive,3.570945782662308e-21,4.805680718098825e-24,1.603821092210786e-22,positive
+409,american americanair wait line hour san antonio bare move amp two agent front amp least behind,negative,8.075192775060095e-44,9.569342791943762e-41,6.145209436653113e-44,negative
+410,american americanair thank keep updat hope make either connect killeen,positive,1.1808290342584993e-24,4.903391313044772e-25,4.62515018590781e-26,positive
+411,unit unit baldordash rebook arriv hour late flightr last year hrs san diego inflight entertain,negative,7.00134891999863e-46,3.980517048328963e-41,4.403858053127971e-43,negative
+412,virgin america virginamerica great deal alreadi think trip australia amp even gone trip yet,positive,2.629405143362341e-42,3.7917530218167884e-44,1.9079774544584184e-43,positive
+413,southwest southwestair stick fli free southwest goe son work wonder compani mom fli free,positive,6.149756047355044e-41,1.9678920542192597e-43,2.976375500848065e-42,positive
+414,unit unit first complaint file feb day still respons disappoint surpris,negative,1.19614166565435e-33,2.3168958919903163e-32,1.4353225863293967e-33,negative
+415,airway usairway final spoke someon email refund dept love guy hour line told dice suck,negative,6.016686730481028e-45,4.171457758584205e-41,1.2279929413921181e-44,negative
+416,american americanair offer autom call back option agent avail call amp sit hold onholdforday,negative,7.316816813585166e-41,2.44750857681188e-35,2.1108218301518753e-39,negative
+417,virgin america virginamerica love graphic,positive,2.665423945677571e-10,9.014336208223033e-13,3.165093111186145e-11,positive
+418,southwest southwestair add flight account creat,neutral,1.576404268854549e-17,7.210902348439979e-18,9.824600005501464e-17,neutral
+419,delta jetblu excit time ahead ___,positive,1.0501950201181893e-17,1.652454008953711e-19,2.508647106197048e-18,positive
+420,virgin america virginamerica pleas add frequenc pdx portland,neutral,8.86729667939673e-22,6.793593135332466e-24,1.1015000496996374e-21,neutral
+421,unit unit gate agent club staff got prioriti standbi next might minor disast travelingwithsmallkid,neutral,1.892486253608655e-40,6.857196531243795e-39,8.22311604821434e-42,negative
+422,unit unit thank noth atlanta loung say sure noth termin,negative,1.2782899981725253e-29,2.533603099053693e-29,8.807139389717175e-30,negative
+423,unit unit flight omaha chicago rout nyc seat partner separ pleas fix res ilchp,negative,4.9941597736889405e-37,6.143501404001152e-36,1.0614899805114014e-35,neutral
+424,unit unit instead wait plane ottawa never came back home tri tomorrow suitcas still lost,negative,6.952127315470155e-42,4.323289206922456e-38,5.547019271313076e-42,negative
+425,american americanair boston airport problem agent honor voucher one number rub,negative,7.40838614515751e-31,7.697969519415087e-29,6.0375929757414515e-30,negative
+426,american americanair alway better find equip inop ground air safetyfirst,negative,7.477904074175873e-29,1.6080910773464427e-28,6.863055237873649e-29,negative
+427,airway usairway alreadi four time,negative,1.9023856845982043e-14,1.1936740221478426e-13,4.080737170731087e-15,negative
+428,delta jetblu flight jfk sfo pure awesom mint class tim attend best airlin take note,positive,5.042369736575181e-40,8.60316754854512e-44,5.976294559918576e-43,positive
+429,delta jetblu gari serv fll airport counter realli true blue make feel home even jetblu flight delayedl,positive,3.8308426287099155e-44,2.5379603580005304e-44,3.556189060844037e-45,positive
+430,unit unit thank info alreadi knew,neutral,4.534725662696285e-16,2.692092061303497e-16,9.425570597497272e-17,positive
+431,american americanair snow ice forecast dfw chang polici reserv hold wed morn leeway,neutral,2.278946721162045e-39,2.497732188312555e-37,1.704289296731634e-36,neutral
+432,airway usairway gate supervisor ask superior name respons receiv ceo americanairlin merger,neutral,1.5859727901225708e-39,1.7047428684758986e-39,1.559869882858036e-38,neutral
+433,southwest southwestair offer cdn border town incent fli sinc exchang rate hurt customerappreci gaincustom keepem,neutral,7.795987869999451e-26,3.3248250520340894e-25,3.8627770837019076e-25,neutral
+434,southwest southwestair impress hour delay flight equip failur compens offer,neutral,2.8720018276230833e-31,5.483804911422666e-29,4.119225228394334e-31,negative
+435,delta stahhppp jetblu fleet fleek,neutral,7.136460959358831e-11,1.0101044723443595e-12,7.692329532975881e-10,neutral
+436,american americanair understand,neutral,2.3715028463469112e-08,5.326832699003922e-08,3.589726872356896e-08,negative
+437,delta jetblu flt delay,neutral,7.7311660393054e-11,6.203724967648275e-11,3.183032910196917e-11,positive
+438,virgin america virginamerica best custom servic rep world irmafromdalla take cake,positive,1.2701159778912249e-28,6.291502947725215e-31,9.948675077203103e-32,positive
+439,delta jetblu fleet fleek,neutral,7.136460959358831e-11,1.0101044723443595e-12,7.692329532975881e-10,neutral
+440,airway usairway still air deic plane miss connect custom servic help hope catch next flight,positive,4.5181306221425533e-38,6.183003454782302e-37,1.4994100812633116e-39,negative
+441,airway usairway worst custom servic still provid answer even drove back clt airport rude amp unaccept fail,negative,1.069974298735004e-50,9.560428682298735e-44,1.2184336620275184e-50,negative
+442,unit unit flight cancel flight need help reflight book problem,negative,1.2911391307966433e-25,4.995845674664432e-23,4.075950818124316e-24,negative
+443,unit unit cours would like hepl kid reason hold past hour,negative,1.489607250775115e-29,1.2438767151549422e-27,1.3704156428341353e-29,negative
+444,southwest southwestair thank excel respons time assist set,positive,2.9823830024821116e-21,2.470827867584157e-24,2.332031226224027e-23,positive
+445,unit unit wonder flight attend name leah lga den den anchorag,positive,3.0751213747841367e-29,1.3602552040291134e-29,3.886997096038639e-30,positive
+446,american americanair hour half land bag final trickl,negative,1.139490239000351e-20,7.972265290441898e-19,6.966410104533931e-21,negative
+447,airway usairway pleas peopl hold flight phoenix san jose pull gate schedul depart,neutral,6.567736719364836e-41,2.0744368507502007e-38,2.0599976560342704e-40,negative
+448,american americanair thank hire car chicago drive mke mean airport,negative,4.6336711491239806e-32,7.0972447080748266e-31,1.5682059677250522e-30,neutral
+449,southwest southwestair right point kid fli often bought four round trip ticket dtw phx,negative,1.3097065621657364e-40,2.6268149327970576e-41,2.001132401220643e-39,neutral
+450,southwest southwestair ceo use vega band help connect peopl aviat busi market consumermarket,neutral,4.326533771454376e-38,9.486924647318411e-39,5.637325853599127e-37,neutral
+451,american americanair still look speak,neutral,5.4328969799011434e-14,2.904764239572603e-13,3.546573260180333e-14,negative
+452,american americanair thank,positive,1.5256668311498464e-06,2.4858552595351637e-07,2.6666542480365513e-07,positive
+453,american americanair father love work well panam,positive,3.364322482690828e-16,1.051077262593587e-17,1.0981892428850442e-17,positive
+454,delta jetblu nope current sit gate,neutral,2.075554347193043e-18,2.1255094703404593e-18,8.153103095140406e-18,neutral
+455,airway usairway idea geek plug server way phx,neutral,2.4589497826996886e-19,2.255473718103485e-18,1.849204108676399e-18,negative
+456,unit unit got rebook one question though automat refund check baggag fee flight cancel flightl,negative,1.603931595243771e-44,3.9911634439872985e-40,1.4662939807778254e-42,negative
+457,unit unit suntoshi still like unit airlin,positive,7.618172030749211e-14,4.5193949502595174e-13,7.738000728437031e-14,negative
+458,american americanair awesom flight morn awesom crew even land earli,positive,3.7640089310841e-27,1.6729219669033516e-29,3.713287702148963e-29,positive
+459,unit unit joni great job flight lax thank great flight,positive,1.5853896789302385e-19,2.876883986058209e-23,1.5812957202197317e-22,positive
+460,southwest southwestair thank lot send special deal budget get screw best vacat sarcasm get new partner,negative,1.502896426464813e-48,5.745708924989882e-50,2.0297553088998244e-50,positive
+461,airway usairway get thru hold hour minut normal call lost,negative,3.3757367700937362e-31,2.0900495751695193e-26,5.890479536257161e-31,negative
+462,unit unit pleas follow,neutral,1.7153813023518585e-09,5.342517376782825e-10,6.425071741461585e-09,neutral
+463,american americanair dai_presid good luck dfw even,positive,4.71114895933155e-17,3.0656420158979624e-17,1.1303000394606303e-17,positive
+464,unit unit educ staff need also turn away first class cabin passeng mileag plus,negative,8.505771001981806e-45,2.7312192522937308e-43,4.0877844497269594e-43,neutral
+465,delta jetblu flight savannah,neutral,1.5065862025313087e-10,4.629645498244982e-11,5.862085609612654e-10,neutral
+466,airway usairway tri get partner pnr spent hour hold know snow somewher aw,negative,2.65839248630069e-38,4.072204527071802e-36,4.011093984492093e-37,negative
+467,unit unit happen flight status map cool,neutral,1.5872845152097532e-16,2.7541864466460625e-15,2.0601604305958324e-15,negative
+468,unit unit help get iah sfo earlier tonight,neutral,1.0102686556209795e-21,9.089565587813538e-22,1.3395330522397395e-21,neutral
+469,unit unit reflight book problemss last day time unit wait time second kudo excel custom servic,positive,2.3266727360613962e-40,8.422641778929166e-40,1.7356765183702662e-42,negative
+470,unit unit land den time stuck wait gate min mayb updat would good idea capt,negative,1.2637657826138121e-45,7.645063507721568e-43,2.3097903292248785e-45,negative
+471,southwest southwestair guy rule thank,positive,1.7521047883774332e-08,8.583280562304841e-11,3.379708635304294e-10,positive
+472,airway usairway know thank evalu chairman,positive,2.425684569610804e-13,9.676658892779382e-14,7.95743748292562e-14,positive
+473,airway usairway vincesview signific number folk connect minut hold would make mani happi,neutral,9.759832554600436e-38,1.9111533725857845e-35,4.480083434986552e-37,negative
+474,airway usairway americanair make spirit look like gem air travel handl winter storm well,negative,2.4348620860752936e-37,2.1369914403221267e-38,1.770535572810923e-39,positive
+475,unit unit condit bos today everyth appear time want check,neutral,2.9941971280792913e-29,5.099799561590108e-29,7.985139713343574e-29,neutral
+476,airway usairway flight delay miss connect flight pleas help altern thank,negative,2.3390872990916228e-28,3.067823212107294e-27,5.471117528407405e-29,negative
+477,delta shannonwoodward want keep updat wear amp amp win nice like,neutral,3.4628480902327724e-30,1.256725118859879e-31,4.014454382801077e-31,positive
+478,airway usairway amp americanair flight cancel flightl yesterday delay today rob daughter day grandpar thank,neutral,2.299490434095231e-34,9.796442029151392e-33,3.044243467929599e-35,negative
+479,unit unit glad solv prob experi remain fli unit,negative,1.6629006371930712e-21,1.1205982798955129e-21,4.117507500148685e-23,positive
+480,american americanair boss,positive,4.1781927647888665e-05,7.389500694118219e-05,5.4461284834900335e-05,negative
+481,southwest southwestair easili get atlanta show need ticket help,neutral,7.457586136977326e-26,3.1755542616054117e-26,3.390875151379026e-24,neutral
+482,unit unit like thank recogn terri dull go way get back raleigh flight,positive,1.6241959823246925e-32,8.764283265856523e-33,4.6390341549082596e-33,positive
+483,unit unit loyal premier platinum member lack communic realli bad also dont see taken yet,negative,1.9445287347260777e-49,3.366165412166122e-47,6.249432708941768e-50,negative
+484,southwest southwestair pleas question,neutral,8.112490476447161e-11,1.2845726011612688e-11,5.71950692128419e-10,neutral
+485,airway usairway way could hold flight clt husband stuck secur check line flight schedul,neutral,2.6982066336296194e-42,1.348038473550791e-38,1.9345772176299567e-40,negative
+486,delta jetblu read nice glass wine right dig heel next novel mayb travel need,neutral,1.423542884620199e-37,6.829170256649068e-39,2.3020774652887292e-37,neutral
+487,airway usairway pleas pleas pleas let plane back gate get miss connect due clt close,neutral,1.6441002445720358e-43,1.6524632980378246e-40,8.546059453332579e-43,negative
+488,american americanair idea flight,negative,5.6832912787300245e-11,6.518395373230448e-10,7.470147257917834e-10,neutral
+489,american americanair flight tomorrow cancel flightl new one book seat taken care tweet commend servic thank,positive,5.616102559765748e-41,1.5048311802828078e-39,8.533894392880341e-42,negative
+490,delta jetblu haha know time lane open logan,positive,2.5992326747925187e-16,4.626871225070391e-18,1.625603324815687e-16,positive
+491,delta jetblu tri tire get grumpi,negative,1.1701698668894748e-13,8.126951882017694e-14,8.658595487039112e-14,positive
+492,american americanair record locat,neutral,3.739007420217121e-13,1.1377562833274964e-11,4.828795900399375e-12,negative
+493,southwest southwestair glad final resolv bad get free voucher mine friend travel next time,positive,1.5324188028205126e-40,3.258117224597113e-42,8.243728699410706e-42,positive
+494,virgin america virginamerica nervous flight lax get cancel flightl tomorrow sent help,neutral,2.4092088214494838e-33,4.288683189141405e-33,7.392357327347924e-33,neutral
+495,unit unit took hour half though,negative,1.8274657247480708e-17,8.506263110368689e-16,1.0357769887359639e-17,negative
+496,american americanair thank contact american email address written unmonitor account,neutral,2.4771169074222736e-26,3.1608638216321676e-26,4.8535526642242443e-26,neutral
+497,delta jetblu ive tri phone laptop,negative,2.3416510583716383e-18,6.642217094813935e-18,1.7560529743379334e-18,negative
+498,airway usairway cancel flight flight told call rebook hold minut still wait,negative,1.0308167832753758e-34,1.577307956049574e-28,6.69600043494164e-33,negative
+499,southwest southwestair offici worst custom servic airlin ever dealt southwestairlin poor,negative,1.4489905345703693e-30,4.088313112314063e-29,1.0329128117957132e-32,negative
+500,american americanair flight attend announc transport wait flight think make,neutral,7.131806395738297e-28,1.312004542562166e-26,1.1047030913893167e-28,negative
+501,unit unit thank repli contact custom care get clarif issu,positive,5.317686392397705e-27,3.3524998149978316e-27,3.0824987864010124e-28,positive
+502,southwest southwestair land earli morn bwi_airport snowfal,neutral,2.7656215243062263e-18,2.528498226076356e-19,1.2842614386276423e-17,neutral
+503,unit unit bwood prefer everyon hear complaint amount airlin,negative,3.252058054501987e-24,9.76623426357265e-25,8.724505687835955e-26,positive
+504,delta jetblu thank liveri cultur crewmemb embodi daili thanksdav,positive,1.3695110735325036e-17,6.804222389809398e-20,8.153103095140406e-18,positive
+505,american americanair right two hour late flight seem due poor communic sound like annoy plane staff,negative,3.577677157292281e-50,8.203646836424453e-45,2.6045079777406588e-51,negative
+506,unit unit sincer thank pilot flight brave snow get home amongst mani cancel flightlat,positive,3.2964082173319775e-32,8.206667895505584e-33,9.347817408944797e-33,positive
+507,virgin america virginamerica guy flight cmh,neutral,5.979030037551945e-16,1.1132363851169639e-17,4.5698733652834106e-17,positive
+508,southwest southwestair horribl custom servic empti seat earli flight wantcharg doubl get home earli instead usual late flight,negative,4.774929558300336e-50,6.547124747256398e-48,3.3928306060650307e-49,negative
+509,unit unit okc ticket agent roger mclarren less help intl group travel problem find supervisor help,negative,1.9253709529996229e-41,3.705042463539009e-41,3.010880003568853e-41,negative
+510,delta jetblu thank answer question,positive,1.0857826168734071e-13,1.2459438425392981e-14,1.8183050522782136e-13,neutral
+511,unit unit nut,neutral,6.16778766910255e-08,1.299376547710394e-07,5.169262264721366e-08,negative
+512,southwest southwestair thank great custom servic today,positive,9.967382646610866e-16,1.752606048487623e-18,1.4085760110296401e-18,positive
+513,airway usairway add tsa pre number exist reserv,neutral,1.547590644168625e-27,1.353014493328945e-25,5.05931275543809e-24,neutral
+514,unit unit got right safeti demonstr corpor funni reserv corni,positive,6.100412350514071e-24,1.5728777287648588e-23,2.6449027769439534e-23,neutral
+515,southwest never got strip fast stoke special imaginedragon show tonight thx southwestair,positive,6.539340940474839e-33,3.019453278806214e-36,6.246551064561646e-35,positive
+516,airway usairway hold hour tri reschedul cancel flightl flight anyon pleas help,negative,3.4268724065713058e-34,7.03011795751392e-30,5.9771567703282934e-34,negative
+517,american americanair approach three hour sit plane ground dfw americanairlin flight oscar perform,negative,1.365370280392232e-42,4.370725684394218e-40,2.5958928015725233e-41,negative
+518,unit unit done,neutral,3.70067260146153e-07,3.465004127227718e-07,6.203114717665639e-07,neutral
+519,unit unit awesom book next christma vacatinn decemb way want devalu mileag plus,positive,3.798604175356602e-34,1.6229364452717398e-33,1.338203180559245e-32,neutral
+520,unit unit interview yesterday flight attend last person recruit said lost file came back interview,negative,1.383804504056551e-35,8.991852054947142e-33,2.4660878335113357e-36,negative
+521,airway usairway thank gate agent state colleg abl get earlier flight figur earlier connect,positive,4.988274011203897e-40,7.891690380416561e-40,8.9404109879248e-42,negative
+522,delta jetblu also parti sister mom three separ reserv tsa let togeth alon,neutral,2.8574732560206834e-45,2.66419270257009e-43,7.397501159143069e-43,neutral
+523,delta jetblu take info begin cut call back medic practic frequent flyer,negative,9.676100715869418e-36,1.5919129416664719e-34,7.624002775373666e-35,negative
+524,american americanair unit deplan hare gate send custom servic rep discuss situat god know,negative,4.6927636067866685e-42,5.136050909387673e-42,1.0496017717803514e-43,negative
+525,unit unit hear guitar damag decemb use guitar earn live get act togeth,negative,5.96371718574156e-44,5.5795112325134516e-43,2.4745488108052408e-42,neutral
+526,virgin america virginamerica call week ago ad flight elev still shown help,negative,1.3036844271912786e-35,6.955754877264154e-36,1.0861131059464347e-35,positive
+527,delta jetblu worst postpon trip accommod guest like southwestair neveragain,negative,1.4329476966800966e-27,5.582412664031969e-27,1.4820716184269061e-27,negative
+528,virgin america virginamerica interest fli cancel flight next four flight plan neverflyvirginforbusi,negative,1.9933814005809986e-30,5.6240711969381e-31,7.849882473227858e-31,positive
+529,unit unit request ticket chang twitter,neutral,3.101470401429584e-17,3.4612612216759243e-16,1.0875658381727619e-15,neutral
+530,southwest southwestair awesom flight dalla virgin america refus child peanut allergi guy thank ___,positive,8.742664732646882e-40,8.938782984221353e-44,1.4406849888045942e-41,positive
+531,unit unit flight two delay cancel flightl flight norfolk book rent car,negative,3.7423285579439108e-31,5.0060162953345654e-27,9.436887174469199e-29,negative
+532,southwest southwestair use point book rental car,neutral,3.531916618875608e-22,2.7565614977471063e-21,3.6464615670146e-20,neutral
+533,southwest southwestair best,positive,3.573214034438455e-07,9.11243688948775e-09,4.930289245457638e-08,positive
+534,southwest southwestair continu amaz amaz custom servic thank swa,positive,4.587260951796318e-23,5.917709091012492e-28,3.242363330952368e-27,positive
+535,airway usairway problem flight gainesvill airway clt miss connect flight iad get anoth flight,negative,1.3873461866441611e-34,8.091176878753876e-32,1.806922337708415e-33,negative
+536,american americanair number even let wait next custom rep frustrat talk human,negative,3.8894024041165563e-38,6.049939066890986e-33,2.949731475112443e-37,negative
+537,delta jetblu thank,positive,4.044396960740768e-06,4.413904018026765e-08,4.88277248424207e-07,positive
+538,delta jetblu valentinesday email point amp clever thank amaz jetblu loveisintheair,positive,8.15338350107369e-20,6.274207878953207e-23,6.129205659189468e-21,positive
+539,delta jetblu worri delay minor dealt nice captain flight way,positive,4.6292599424408356e-26,6.073880619001785e-27,1.8329620880868983e-26,positive
+540,unit unit sent thank,positive,1.1260836440609138e-08,1.6027552130348474e-09,2.7841977546333534e-09,positive
+541,southwest southwestair look like brood sky ont even,neutral,4.1660423815153593e-13,1.8122542794990046e-13,2.378057026972662e-13,positive
+542,delta jetblu mint seat awesom emaleesugano best busi class,positive,2.364752895192863e-22,2.3280919773481286e-25,3.2029711847771048e-24,positive
+543,delta jetblu jetbluebo luggag flt dca bos pax wait min bag show carousel sign updat,negative,3.715567945840916e-45,6.054504820858512e-43,3.5263511881508276e-44,negative
+544,unit unit process purchas ticket price chang unbeliev ripoff pricediscrimin,negative,5.550926679236152e-25,2.960711018851499e-24,2.3142899298259587e-23,neutral
+545,southwest southwestair parent flight frm stlatl cancel flight nite next one,negative,7.771447582790199e-29,1.5072593522325903e-27,2.8448399233598363e-27,neutral
+546,unit unit frontier,neutral,3.083893834551275e-08,4.331255159034647e-08,1.0338524529442731e-07,neutral
+547,airway usairway yes thank took forev,negative,5.475892016088922e-16,1.9684134267084964e-17,8.741692150106614e-18,positive
+548,american americanair pilot admit delay entir incompet poor equip check,negative,3.901407055609569e-34,1.5458024283542784e-30,4.200551699263534e-33,negative
+549,virgin america virginamerica getaway deal may one way lot cool citi cheapflight farecompar,neutral,2.2942269397859238e-41,2.0244558009952127e-43,2.30334331834731e-43,positive
+550,american americanair flight way,neutral,7.388278662349031e-10,2.8680939642213976e-09,2.3477605667741768e-09,negative
+551,american americanair needknow ill abl reach ind today rather stay maf fli dfw amp find travel,negative,2.8204387309307914e-42,1.1913304054860126e-42,1.122866324286227e-43,positive
+552,american americanair thank flight today great crew,positive,7.799886651973338e-16,3.2074448404218767e-18,4.818304648041441e-18,positive
+553,airway usairway final spoke person despit mind boggl wait time rep pleasant help kudo,positive,6.957090689136319e-39,6.860586250298847e-41,3.0869095744769296e-43,positive
+554,delta jetblu amaz thank,positive,1.1477808042968787e-08,3.5353656532052587e-12,1.3793142610853307e-10,positive
+555,unit unit move americanair unit talk servic,negative,2.2860090471970367e-17,5.958579153401533e-16,3.8772097624400084e-17,negative
+556,american americanair curious thank respons alway good bad better competit,positive,8.543607702473671e-21,2.8782411715520996e-22,3.4110482621070104e-23,positive
+557,unit unit unfortun still tarmac flyohar definit miss ride flypdx gonnabealongnight,neutral,7.072174371006313e-29,9.7052334678085e-28,4.496722130711367e-29,negative
+558,american americanair yet wait connect agent,neutral,3.426290152241127e-17,6.204275508364926e-16,1.3486534561746156e-17,negative
+559,american americanair right cue delays_,negative,6.32400759025843e-08,1.006179509811852e-07,4.6153631216017233e-08,negative
+560,airway usairway got email ask checkin tmrw flight meant book someon pleas help wallstslumlord pkg,neutral,1.0497151850608753e-39,7.82238766885036e-37,9.413365289014204e-37,neutral
+561,virgin america virginamerica ladygaga carrieunderwood entertain,neutral,3.3477211856393865e-19,3.855364104301173e-21,2.658620574502307e-19,positive
+562,virgin america virginamerica put great deal pdx las las pdx show love,positive,1.661513894095179e-37,3.2982162690855013e-41,6.103022214231882e-38,positive
+563,delta cool thx coupl pgashow flight til mosaic wait easier chang flight weather bad jetblu,positive,1.2611720168721372e-41,1.402587989388072e-41,9.541101841273519e-43,negative
+564,american americanair aftr hrs bng held hstg mia refsd get med bag bag fnd refsd fix tkts cnceld said fli,negative,2.0926097819795913e-33,7.995578262774972e-30,8.970669730630594e-34,negative
+565,unit unit book award tix thaiairway see conf unit flight book problem get get thai,neutral,2.010978581715272e-35,5.670088843502348e-33,1.6574947766724745e-32,neutral
+566,american americanair merg mile usairway complet month,neutral,3.190572669200983e-21,2.486153416977723e-20,9.687664051617494e-22,negative
+567,delta jetblu leopolds_ friend pictur phillip heller jfk ifc said delici,positive,1.1708255291858191e-17,1.3608444779618794e-18,2.508647106197048e-18,positive
+568,virgin america virginamerica never rec cancel flightlat notic left option fli drive red eye mon kid,negative,1.9192715857867172e-49,2.787752779228351e-48,2.0793853474166695e-48,negative
+569,unit unit play along home,neutral,6.418093308119198e-11,5.897584117227794e-11,1.2655444339242516e-10,neutral
+570,unit unit went custom servic kiosk abl help still thank follow,positive,1.8840971941064478e-24,9.070600714028773e-26,1.1790557857983873e-26,positive
+571,american americanair runway dfw fli late flightr today thank,neutral,1.1314966212716997e-25,6.949788945342404e-25,2.411341320882145e-25,negative
+572,american americanair go pathet onlin work phone want give seat assign,negative,4.856694351143841e-34,9.124492932178666e-32,7.885755399960315e-33,negative
+573,delta jetblu hour polici call said report soon enough would chang notic sooner,negative,1.2988514800094017e-41,1.2606959868561669e-39,2.5428910234554298e-40,negative
+574,southwest southwestair imaginedragon beatsmus well time tweet board listen way home,positive,1.96868167384016e-28,2.8406884038391014e-30,3.731533442192514e-29,positive
+575,southwest southwestair three cheer denver staff know get keep smile,positive,7.183027728876262e-30,3.1093967465923016e-31,1.0903831486926179e-31,positive
+576,airway usairway despit tailwind_ still late flight,negative,1.314322169566075e-16,8.21636854451984e-16,6.89969273276272e-17,negative
+577,airway usairway chang without penalti call custom servic,neutral,6.5463084248332825e-24,1.5846505745868604e-21,1.0731875541838371e-23,negative
+578,southwest southwestair ugh kick miss destinationdragon need imaginedragon back life,neutral,2.3599622726325078e-27,4.9495176804025225e-28,3.941180385045093e-26,neutral
+579,southwest southwestair hold custom servic hour help,negative,3.3814831332568322e-18,8.279855642604439e-17,5.313415426221276e-19,negative
+580,airway usairway provid info check stroller car seat cost restrict need bring seat stroller,neutral,1.8908463789444416e-42,2.545265723786952e-39,1.1494539059990691e-38,neutral
+581,southwest southwestair flight vega come soon havent receiv drink ticket late flight help,neutral,1.4676105138229673e-37,1.0245162174196595e-37,4.2327934511800605e-36,neutral
+582,american americanair pleas help flight appear cancel flight lauderdal dalla lax anyth leav mia fll thxu,neutral,4.290163736998259e-45,2.5544079068849e-43,8.650908888701086e-43,neutral
+583,delta jetblu thank offer servic guy,positive,2.2689374710749752e-14,2.130628837662316e-16,2.39701230997128e-16,positive
+584,airway usairway seem like team fail scan bag lax recycl bagtag number help usairwaysfail,negative,4.235545815354145e-34,6.410493296990411e-31,2.1972947850306857e-33,negative
+585,unit unit bagag take cabin dont need check correct,neutral,6.0555563773485274e-24,1.9892277157908505e-22,4.302742531436738e-22,neutral
+586,unit unit,positive,0.00032599841725041524,0.0005407572066054757,0.000548975652513409,neutral
+587,unit unit sfo clearvis tvu unit termin sfo airport,neutral,3.204418188811867e-18,1.58163253668392e-17,3.9979821395729406e-18,negative
+588,southwest southwestair follow await,neutral,4.056245238223579e-11,1.0218191145601e-12,2.7854741499760663e-11,positive
+589,southwest southwestair favorit airlin never issu plus crew entertain,positive,5.6013985488822186e-27,1.917827423211425e-27,5.484767030635238e-28,positive
+590,southwest southwestair suppos say boo book booo,neutral,4.3853077700161676e-15,5.89274939914515e-14,2.350079885478866e-13,neutral
+591,unit unit yes lhrt loung fantast one could remot similar,positive,5.728461240515114e-27,2.781288625767142e-28,1.8159839374026667e-27,positive
+592,airway usairway peopl line wait minut custom servic repres,negative,5.944996772150178e-27,3.525676533143908e-24,1.414748188189616e-27,negative
+593,airway usairway still get real person phone book flight readi jetblu sinc care usairwayssuck,negative,5.567394361306087e-41,9.939466407313268e-39,3.598515422639732e-41,negative
+594,unit unit frustrat well way relat flightd anyway impress made,positive,2.109509660196629e-30,1.0533816300001455e-30,2.6870894957532065e-32,positive
+595,unit unit holi high speed internet batman speed unit club iad insan fast thank,positive,9.768721666069951e-41,6.013631366675851e-42,9.509691079924545e-41,positive
+596,airway usairway yes pay pocket help loos first class ticket coach want resolut comp,negative,8.977101818283069e-41,1.3212061122747464e-39,6.508845303708807e-40,negative
+597,delta jetblu alreadi ticket total beach right flightland sunscreen feelsgood,neutral,2.658198155374105e-21,6.353047050843261e-22,5.74012473451867e-21,neutral
+598,airway usairway least get respons tri gate person sent wrong way cust srvc cust srvc found,negative,1.7543741192805693e-43,4.922141081063845e-41,3.8729481640296794e-43,negative
+599,delta jetblu guy realli bad jetblu fail someon better call wife back get handl wait hold,negative,7.34186504821686e-46,2.955604995390449e-43,2.286994939843491e-47,negative
+600,airway usairway americanair incompet,negative,3.593249503835776e-11,3.524856485462686e-10,6.004039608511283e-11,negative
