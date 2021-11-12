@@ -17,6 +17,8 @@ sourcecode/
     ├── svm_results.csv
     ├── test.csv
     ├── training.csv
+└── file/
+    ├── Aamod-Khatiwada_Nitisha-Patange_Humberto-Pinon_project_poster.pptx
 └── img/
     ├── minus.png
     ├── model_1_accuracy.png
@@ -46,6 +48,7 @@ sourcecode/
     ├── test_accuracy_model_1.png
     ├── test_accuracy_model_2.png
 ├── dl.py
+├── LICENSE
 ├── nb.py
 ├── README.md
 ├── svm.py
