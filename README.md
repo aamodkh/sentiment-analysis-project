@@ -1,5 +1,5 @@
-# Source Code - Team #19 (Aamod Khatiwada, Nitisha Patange, Humberto Pinon)
-
+# Performance Comparison between Support Vector Machine, Naive Bayes Classifier, Sequential Model, and Convolutional Neural Network for Text Dataset Sentiment Analysis
+Project Team Members: Aamod Khatiwada, Nitisha Patange, Humberto Pinon
 Source code used for final project.
 
 ## Dataset
@@ -81,7 +81,7 @@ At the end of running ```nb.py```, the results (accuracy, precision, etc.) will 
 
 Here is what the terminal should show as output at the end of running ```nb.py```:
 
-![Image of Naive Bayes Results] (img/nb_results.png)
+![Image of Naive Bayes Results](img/nb_results.png)
 
 #### Word Cloud
 
@@ -94,17 +94,17 @@ python wc_nb.py
 The results will be shown while running the code. The output will be similar to the following images:
 
 * Naive Bayes Results - Actual Positive
-![Image of Naive Bayes Results - Actual Positive] (img/nb_actual_positive.png)
+![Image of Naive Bayes Results - Actual Positive](img/nb_actual_positive.png)
 * Naive Bayes Results - Actual Neutral
-![Image of Naive Bayes Results - Actual Neutral] (img/nb_actual_neutral.png)
+![Image of Naive Bayes Results - Actual Neutral](img/nb_actual_neutral.png)
 * Naive Bayes Results - Actual Negative
-![Image of Naive Bayes Results- Actual Negative] (img/nb_actual_negative.png)
+![Image of Naive Bayes Results- Actual Negative](img/nb_actual_negative.png)
 * Naive Bayes Results - Predicted Positive
-![Image of Naive Bayes Results - Predicted Positive] (img/nb_predicted_positive.png)
+![Image of Naive Bayes Results - Predicted Positive](img/nb_predicted_positive.png)
 * Naive Bayes Results - Predicted Neutral
-![Image of Naive Bayes Results- Predicted Neutral] (img/nb_predicted_neutral.png)
+![Image of Naive Bayes Results- Predicted Neutral](img/nb_predicted_neutral.png)
 * Naive Bayes Results - Predicted Negative
-![Image of Naive Bayes Results - Predicted Negative] (img/nb_predicted_negative.png)
+![Image of Naive Bayes Results - Predicted Negative](img/nb_predicted_negative.png)
 
 ### SVM
 
@@ -118,8 +118,8 @@ At the end of running ```svm.py```, the results (accuracy, precision, etc.) will
 
 Here is what the terminal should show as output at the end of running ```svm.py```:
 
-![Image of SVM Results] (img/svm_results_1.png)
-![Image of SVM Results] (img/svm_results_2.png)
+![Image of SVM Results](img/svm_results_1.png)
+![Image of SVM Results](img/svm_results_2.png)
 
 #### Word Cloud
 
@@ -132,17 +132,17 @@ python wc_svm.py
 The results will be shown while running the code. The output will be similar to the following images:
 
 * SVM Results - Actual Positive
-![Image of SVM Results - Actual Positive] (img/svm_actual_positive.png)
+![Image of SVM Results - Actual Positive](img/svm_actual_positive.png)
 * SVM Results - Actual Neutral
-![Image of SVM Results - Actual Neutral] (img/svm_actual_neutral.png)
+![Image of SVM Results - Actual Neutral](img/svm_actual_neutral.png)
 * SVM Results - Actual Negative
-![Image of SVM Results- Actual Negative] (img/svm_actual_negative.png)
+![Image of SVM Results- Actual Negative](img/svm_actual_negative.png)
 * SVM Results - Predicted Positive
-![Image of SVM Results - Predicted Positive] (img/svm_predicted_positive.png)
+![Image of SVM Results - Predicted Positive](img/svm_predicted_positive.png)
 * SVM Results - Predicted Neutral
-![Image of SVM Results- Predicted Neutral] (img/svm_predicted_neutral.png)
+![Image of SVM Results- Predicted Neutral](img/svm_predicted_neutral.png)
 * SVM Results - Predicted Negative
-![Image of SVM Results - Predicted Negative] (img/svm_predicted_negative.png)
+![Image of SVM Results - Predicted Negative](img/svm_predicted_negative.png)
 
 ### Deep Learning
 
@@ -157,14 +157,14 @@ At the end of running ```dl.py```, the output will show graphs for accuracy and 
 Here is what the terminal should show as output at the end of running ```dl.py```:
 
 * Accuracy Graph of First Model
-![Accuracy Graph of First Model] (img/model_1_accuracy.png)
+![Accuracy Graph of First Model](img/model_1_accuracy.png)
 * Loss Graph of First Model
-![Loss Graph of First Model] (img/model_1_loss.png)
+![Loss Graph of First Model](img/model_1_loss.png)
 * Accuracy Graph of Second Model
-![Accuracy Graph of Second Model] (img/model_2_accuracy.png)
+![Accuracy Graph of Second Model](img/model_2_accuracy.png)
 * Loss Graph of Second Model
-![Loss Graph of Second Model] (img/model_2_loss.png)
+![Loss Graph of Second Model](img/model_2_loss.png)
 * Test Accuracy of First Model
-![Test Accuracy of First Model] (img/test_accuracy_model_1.png)
+![Test Accuracy of First Model](img/test_accuracy_model_1.png)
 * Test Accuracy of Second Model
-![Test Accuracy of Second Model] (img/test_accuracy_model_2.png)
+![Test Accuracy of Second Model](img/test_accuracy_model_2.png)
