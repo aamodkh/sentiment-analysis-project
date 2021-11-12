@@ -1,6 +1,5 @@
 # Performance Comparison between Support Vector Machine, Naive Bayes Classifier, Sequential Model, and Convolutional Neural Network for Text Dataset Sentiment Analysis
 Project Team Members: Aamod Khatiwada, Nitisha Patange, Humberto Pinon
-Source code used for final project.
 
 ## Dataset
 
